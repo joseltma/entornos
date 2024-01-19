@@ -1,0 +1,2408 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es FC7A-1E38
+C:.
+ÃÄÄÄ.afirma
+³   ÀÄÄÄAutoFirma
+ÃÄÄÄ.arduinoIDE
+³   ÃÄÄÄglobalStorage
+³   ÃÄÄÄlocalization-cache
+³   ³   ÃÄÄÄbg
+³   ³   ÃÄÄÄcs
+³   ³   ÃÄÄÄde
+³   ³   ÃÄÄÄes
+³   ³   ÃÄÄÄfr
+³   ³   ÃÄÄÄhu
+³   ³   ÃÄÄÄit
+³   ³   ÃÄÄÄja
+³   ³   ÃÄÄÄko
+³   ³   ÃÄÄÄnl
+³   ³   ÃÄÄÄpl
+³   ³   ÃÄÄÄpt-br
+³   ³   ÃÄÄÄru
+³   ³   ÃÄÄÄtr
+³   ³   ÃÄÄÄuk
+³   ³   ÃÄÄÄzh-cn
+³   ³   ÀÄÄÄzh-tw
+³   ÃÄÄÄlogs
+³   ³   ÃÄÄÄ20231118T125025
+³   ³   ³   ÀÄÄÄhost
+³   ³   ÃÄÄÄ20231118T125212
+³   ³   ³   ÀÄÄÄhost
+³   ³   ÃÄÄÄ20231118T125500
+³   ³   ³   ÀÄÄÄhost
+³   ³   ÃÄÄÄ20231118T133117
+³   ³   ³   ÀÄÄÄhost
+³   ³   ÀÄÄÄ20231118T141953
+³   ³       ÀÄÄÄhost
+³   ÃÄÄÄplugin-storage
+³   ÀÄÄÄworkspace-storage
+³       ÃÄÄÄ459d78f838326b17cbc1ce59f22df0b5
+³       ÃÄÄÄbf82fdbf91a7959f6eb1c52457755021
+³       ÃÄÄÄcbb083f1c7a2ef480449cfea2b93cb7a
+³       ÀÄÄÄf8123f3dbad6f382045e27d72dc6eea1
+ÃÄÄÄ.dia
+³   ÃÄÄÄobjects
+³   ÃÄÄÄshapes
+³   ÀÄÄÄsheets
+ÃÄÄÄ.idlerc
+ÃÄÄÄ.nbi
+³   ÃÄÄÄdownloads
+³   ÃÄÄÄlog
+³   ÃÄÄÄproduct-cache
+³   ³   ÃÄÄÄnb-all
+³   ³   ³   ÀÄÄÄ19.0.0.230824.0
+³   ³   ÃÄÄÄnb-extide
+³   ³   ³   ÀÄÄÄ19.0.0.230824.0
+³   ³   ÃÄÄÄnb-javaee
+³   ³   ³   ÀÄÄÄ19.0.0.230824.0
+³   ³   ÃÄÄÄnb-javase
+³   ³   ³   ÀÄÄÄ19.0.0.230824.0
+³   ³   ÃÄÄÄnb-php
+³   ³   ³   ÀÄÄÄ19.0.0.230824.0
+³   ³   ÀÄÄÄnb-webcommon
+³   ³       ÀÄÄÄ19.0.0.230824.0
+³   ÃÄÄÄtmp
+³   ÀÄÄÄwd
+ÃÄÄÄ.thumbnails
+³   ÃÄÄÄfail
+³   ³   ÀÄÄÄblender
+³   ÃÄÄÄlarge
+³   ÀÄÄÄnormal
+ÃÄÄÄ.VirtualBox
+ÃÄÄÄ3D Objects
+ÃÄÄÄContacts
+ÃÄÄÄDocuments
+ÃÄÄÄDownloads
+³   ÀÄÄÄNueva carpeta
+³       ÀÄÄÄOracleXE184_Win64
+³           ÀÄÄÄISSetupPrerequisites
+³               ÀÄÄÄ{C445AD52-1E5D-47BA-841E-2E252A938AE7}
+ÃÄÄÄFavorites
+³   ÀÄÄÄLinks
+ÃÄÄÄLinks
+ÃÄÄÄMusic
+ÃÄÄÄOneDrive
+³   ÃÄÄÄDocumentos
+³   ³   ÃÄÄÄArduino
+³   ³   ³   ÀÄÄÄcochecito
+³   ³   ÃÄÄÄCOMPARTIR
+³   ³   ³   ÀÄÄÄSystem Volume Information
+³   ³   ÃÄÄÄNetBeansProjects
+³   ³   ÃÄÄÄNew Folder
+³   ³   ÃÄÄÄTarea
+³   ³   ÀÄÄÄVisual Studio 2022
+³   ³       ÃÄÄÄCode Snippets
+³   ³       ³   ÃÄÄÄPython
+³   ³       ³   ³   ÀÄÄÄMy Code Snippets
+³   ³       ³   ÃÄÄÄVisual Basic
+³   ³       ³   ³   ÀÄÄÄMy Code Snippets
+³   ³       ³   ÃÄÄÄVisual C#
+³   ³       ³   ³   ÀÄÄÄMy Code Snippets
+³   ³       ³   ÀÄÄÄXML
+³   ³       ³       ÀÄÄÄMy Xml Snippets
+³   ³       ÀÄÄÄTemplates
+³   ³           ÃÄÄÄItemTemplates
+³   ³           ³   ÃÄÄÄC#
+³   ³           ³   ÃÄÄÄExtensibilidad
+³   ³           ³   ÀÄÄÄVisual Basic
+³   ³           ÀÄÄÄProjectTemplates
+³   ³               ÃÄÄÄC#
+³   ³               ÃÄÄÄExtensibilidad
+³   ³               ÀÄÄÄVisual Basic
+³   ÃÄÄÄEscritorio
+³   ³   ÃÄÄÄaccesos directos
+³   ³   ³   ÀÄÄÄbard
+³   ³   ÃÄÄÄatributos compuestos
+³   ³   ÃÄÄÄCarpeta_Tarea
+³   ³   ³   ÀÄÄÄTarea
+³   ³   ³       ÃÄÄÄbuild
+³   ³   ³       ³   ÀÄÄÄclasses
+³   ³   ³       ÃÄÄÄnbproject
+³   ³   ³       ³   ÃÄÄÄconfigs
+³   ³   ³       ³   ÀÄÄÄprivate
+³   ³   ³       ÃÄÄÄsrc
+³   ³   ³       ÀÄÄÄtest
+³   ³   ÃÄÄÄDAM CIDEAD 1 CURSO
+³   ³   ³   ÃÄÄÄexamenes
+³   ³   ³   ³   ÃÄÄÄdaypo
+³   ³   ³   ³   ÃÄÄÄexamen bases de datos
+³   ³   ³   ³   ³   ÃÄÄÄEXAMEN BD02
+³   ³   ³   ³   ³   ³   ÀÄÄÄintermedios
+³   ³   ³   ³   ³   ÀÄÄÄEXAMEN BD03
+³   ³   ³   ³   ÃÄÄÄexamen entornos de desarrollo
+³   ³   ³   ³   ³   ÀÄÄÄED02
+³   ³   ³   ³   ÃÄÄÄexamen lenjuaje de marcas
+³   ³   ³   ³   ³   ÀÄÄÄEXAMEN LM02
+³   ³   ³   ³   ÀÄÄÄexamen sistemas informaticos
+³   ³   ³   ³       ÃÄÄÄEXAMEN SI02
+³   ³   ³   ³       ÃÄÄÄEXAMEN SI03
+³   ³   ³   ³       ÀÄÄÄINTERMEDIOS
+³   ³   ³   ³           ÃÄÄÄ1_files
+³   ³   ³   ³           ÃÄÄÄExamen para revisar para SI01._ Revisi¢n del intento_files
+³   ³   ³   ³           ÃÄÄÄSI01_ContenidDSos_files
+³   ³   ³   ³           ÃÄÄÄSI01_Contenidoes_files
+³   ³   ³   ³           ÀÄÄÄSI01_Contenidos_files
+³   ³   ³   ÃÄÄÄIngles- DAM (23-24)
+³   ³   ³   ÃÄÄÄpetcon
+³   ³   ³   ÃÄÄÄPROGRAMAS NECESARIOS
+³   ³   ³   ³   ÃÄÄÄBASE DATOS
+³   ³   ³   ³   ÃÄÄÄdiagram editor para bases de datos
+³   ³   ³   ³   ÃÄÄÄShareX-15.0.0-portable
+³   ³   ³   ³   ³   ÃÄÄÄLanguages
+³   ³   ³   ³   ³   ³   ÃÄÄÄde
+³   ³   ³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ³   ³   ÃÄÄÄes-MX
+³   ³   ³   ³   ³   ³   ÃÄÄÄfa-IR
+³   ³   ³   ³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ³   ³   ³   ÃÄÄÄhu
+³   ³   ³   ³   ³   ³   ÃÄÄÄid-ID
+³   ³   ³   ³   ³   ³   ÃÄÄÄit-IT
+³   ³   ³   ³   ³   ³   ÃÄÄÄja-JP
+³   ³   ³   ³   ³   ³   ÃÄÄÄko-KR
+³   ³   ³   ³   ³   ³   ÃÄÄÄnl-NL
+³   ³   ³   ³   ³   ³   ÃÄÄÄpl
+³   ³   ³   ³   ³   ³   ÃÄÄÄpt-BR
+³   ³   ³   ³   ³   ³   ÃÄÄÄpt-PT
+³   ³   ³   ³   ³   ³   ÃÄÄÄro
+³   ³   ³   ³   ³   ³   ÃÄÄÄru
+³   ³   ³   ³   ³   ³   ÃÄÄÄtr
+³   ³   ³   ³   ³   ³   ÃÄÄÄuk
+³   ³   ³   ³   ³   ³   ÃÄÄÄvi-VN
+³   ³   ³   ³   ³   ³   ÃÄÄÄzh-CN
+³   ³   ³   ³   ³   ³   ÀÄÄÄzh-TW
+³   ³   ³   ³   ³   ÃÄÄÄLicenses
+³   ³   ³   ³   ³   ÃÄÄÄShareX
+³   ³   ³   ³   ³   ³   ÃÄÄÄBackup
+³   ³   ³   ³   ³   ³   ÃÄÄÄImageEffects
+³   ³   ³   ³   ³   ³   ÃÄÄÄLogs
+³   ³   ³   ³   ³   ³   ÃÄÄÄScreenshots
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄ2023-11
+³   ³   ³   ³   ³   ³   ³       ÃÄÄÄ5.3
+³   ³   ³   ³   ³   ³   ³       ÃÄÄÄ6.1
+³   ³   ³   ³   ³   ³   ³       ÃÄÄÄ6.2
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄ6.3
+³   ³   ³   ³   ³   ³   ÀÄÄÄTools
+³   ³   ³   ³   ³   ÀÄÄÄStickers
+³   ³   ³   ³   ³       ÀÄÄÄBlobEmoji
+³   ³   ³   ³   ÃÄÄÄSIST INFORMATICOS
+³   ³   ³   ³   ÃÄÄÄsqldeveloper-19.2.1.247.2212-x64
+³   ³   ³   ³   ³   ÀÄÄÄsqldeveloper
+³   ³   ³   ³   ³       ÃÄÄÄconfiguration
+³   ³   ³   ³   ³       ÃÄÄÄdataminer
+³   ³   ³   ³   ³       ³   ÃÄÄÄdemos
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄworkflows
+³   ³   ³   ³   ³       ³   ÀÄÄÄscripts
+³   ³   ³   ³   ³       ÃÄÄÄdropins
+³   ³   ³   ³   ³       ÃÄÄÄdvt
+³   ³   ³   ³   ³       ³   ÀÄÄÄdt
+³   ³   ³   ³   ³       ÃÄÄÄequinox
+³   ³   ³   ³   ³       ÃÄÄÄexternal
+³   ³   ³   ³   ³       ÃÄÄÄide
+³   ³   ³   ³   ³       ³   ÃÄÄÄbin
+³   ³   ³   ³   ³       ³   ÃÄÄÄdoc
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄextension
+³   ³   ³   ³   ³       ³   ÃÄÄÄextensions
+³   ³   ³   ³   ³       ³   ÃÄÄÄlib
+³   ³   ³   ³   ³       ³   ÃÄÄÄmacros
+³   ³   ³   ³   ³       ³   ÃÄÄÄsrc
+³   ³   ³   ³   ³       ³   ÀÄÄÄthemes
+³   ³   ³   ³   ³       ÃÄÄÄjavavm
+³   ³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ÃÄÄÄjdbc
+³   ³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ÃÄÄÄjdev
+³   ³   ³   ³   ³       ³   ÃÄÄÄbin
+³   ³   ³   ³   ³       ³   ÃÄÄÄdoc
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄextension
+³   ³   ³   ³   ³       ³   ÃÄÄÄextensions
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.jdeveloper.git
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlicense
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.jdeveloper.subversion
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlicenses
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄoracle.webbrowser.osx
+³   ³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ÃÄÄÄjdk
+³   ³   ³   ³   ³       ³   ÃÄÄÄjre
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄbin
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄdtplugin
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄplugin2
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄserver
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄamd64
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄcmm
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄdeploy
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄext
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄfonts
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄimages
+³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄcursors
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄjfr
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄmanagement
+³   ³   ³   ³   ³       ³   ³       ÀÄÄÄsecurity
+³   ³   ³   ³   ³       ³   ³           ÀÄÄÄpolicy
+³   ³   ³   ³   ³       ³   ³               ÃÄÄÄlimited
+³   ³   ³   ³   ³       ³   ³               ÀÄÄÄunlimited
+³   ³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ÃÄÄÄjlib
+³   ³   ³   ³   ³       ÃÄÄÄjviews
+³   ³   ³   ³   ³       ÃÄÄÄmodule
+³   ³   ³   ³   ³       ÃÄÄÄmodules
+³   ³   ³   ³   ³       ³   ÃÄÄÄj2ee
+³   ³   ³   ³   ³       ³   ÃÄÄÄjavafx
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄlinux
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmac
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄwin
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.adf.model
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.adf.share
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.adf.share.ca
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.adf.view
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.bali.jewt
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.bali.share
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.help
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.javatools
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.jrf
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.ldap
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.xdk
+³   ³   ³   ³   ³       ³   ÃÄÄÄoracle.xmlef
+³   ³   ³   ³   ³       ³   ÀÄÄÄthirdparty
+³   ³   ³   ³   ³       ³       ÀÄÄÄfeatures
+³   ³   ³   ³   ³       ÃÄÄÄnetbeans
+³   ³   ³   ³   ³       ³   ÃÄÄÄfcpbridge
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄconfig
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄModules
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄcore
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlocale
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmodules
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlocale
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄupdate_tracking
+³   ³   ³   ³   ³       ³   ÃÄÄÄide
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄconfig
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄModules
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmodules
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄext
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlocale
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄupdate_tracking
+³   ³   ³   ³   ³       ³   ÀÄÄÄplatform
+³   ³   ³   ³   ³       ³       ÃÄÄÄconfig
+³   ³   ³   ³   ³       ³       ³   ÃÄÄÄModuleAutoDeps
+³   ³   ³   ³   ³       ³       ³   ÀÄÄÄModules
+³   ³   ³   ³   ³       ³       ÃÄÄÄcore
+³   ³   ³   ³   ³       ³       ³   ÀÄÄÄlocale
+³   ³   ³   ³   ³       ³       ÃÄÄÄlib
+³   ³   ³   ³   ³       ³       ³   ÀÄÄÄlocale
+³   ³   ³   ³   ³       ³       ÃÄÄÄmodules
+³   ³   ³   ³   ³       ³       ³   ÃÄÄÄext
+³   ³   ³   ³   ³       ³       ³   ÃÄÄÄlib
+³   ³   ³   ³   ³       ³       ³   ³   ÃÄÄÄamd64
+³   ³   ³   ³   ³       ³       ³   ³   ³   ÀÄÄÄlinux
+³   ³   ³   ³   ³       ³       ³   ³   ÃÄÄÄi386
+³   ³   ³   ³   ³       ³       ³   ³   ³   ÀÄÄÄlinux
+³   ³   ³   ³   ³       ³       ³   ³   ÀÄÄÄx86
+³   ³   ³   ³   ³       ³       ³   ÀÄÄÄlocale
+³   ³   ³   ³   ³       ³       ÀÄÄÄupdate_tracking
+³   ³   ³   ³   ³       ÃÄÄÄrdbms
+³   ³   ³   ³   ³       ³   ÀÄÄÄjlib
+³   ³   ³   ³   ³       ÃÄÄÄsleepycat
+³   ³   ³   ³   ³       ³   ÀÄÄÄje-3.3.98
+³   ³   ³   ³   ³       ³       ÀÄÄÄlib
+³   ³   ³   ³   ³       ÃÄÄÄsqldeveloper
+³   ³   ³   ³   ³       ³   ÃÄÄÄbin
+³   ³   ³   ³   ³       ³   ÃÄÄÄdoc
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄwelcome
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄde
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄen
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄes
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄfr
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄit
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄja
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄko
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄpt_BR
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄwelcomeImages
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄzh_CN
+³   ³   ³   ³   ³       ³   ³       ÀÄÄÄzh_TW
+³   ³   ³   ³   ³       ³   ÃÄÄÄextensions
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.datamodeler
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄdoc
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄwelcome
+³   ³   ³   ³   ³       ³   ³   ³   ³       ÃÄÄÄen
+³   ³   ³   ³   ³       ³   ³   ³   ³       ÀÄÄÄwelcomeImages
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlog
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄreports
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcss
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄimg
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄjs
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄReporting Schema diagrams
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄxslt
+³   ³   ³   ³   ³       ³   ³   ³   ³       ÃÄÄÄ10
+³   ³   ³   ³   ³       ³   ³   ³   ³       ÀÄÄÄ20
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄsamples
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄDimensional_model
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄtemplates
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄtypes
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄxmlmetadata
+³   ³   ³   ³   ³       ³   ³   ³       ÀÄÄÄdoc
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.dmt.dataminer
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.hcs
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.olap
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.olapdv
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.sqldeveloper.onsd
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoracle.sqldeveloper.rdfgraph
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄoracle.sqldeveloper.unit_test
+³   ³   ³   ³   ³       ³   ³       ÀÄÄÄsql
+³   ³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ÃÄÄÄsqlj
+³   ³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³   ³       ÀÄÄÄsvnkit
+³   ³   ³   ³   ³           ÀÄÄÄlicenses
+³   ³   ³   ³   ÀÄÄÄUSO GENERICO
+³   ³   ³   ÃÄÄÄrecursos
+³   ³   ³   ³   ÀÄÄÄDAM-main
+³   ³   ³   ³       ÀÄÄÄDAM-main
+³   ³   ³   ³           ÀÄÄÄDAM1
+³   ³   ³   ³               ÃÄÄÄBases de datos
+³   ³   ³   ³               ³   ÃÄÄÄActividades
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 2
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 4
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 6
+³   ³   ³   ³               ³   ³   ÀÄÄÄUnidad 7
+³   ³   ³   ³               ³   ÀÄÄÄUnidades
+³   ³   ³   ³               ÃÄÄÄEntornos de desarrollo
+³   ³   ³   ³               ³   ÀÄÄÄUnidades
+³   ³   ³   ³               ÃÄÄÄLenguajes de marcas
+³   ³   ³   ³               ³   ÃÄÄÄActividades
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 1
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 2
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 4
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 5
+³   ³   ³   ³               ³   ³   ÀÄÄÄUnidad 6
+³   ³   ³   ³               ³   ÀÄÄÄUnidades
+³   ³   ³   ³               ÃÄÄÄProgramacion
+³   ³   ³   ³               ³   ÃÄÄÄActividades
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 10 Calculadora
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 3
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 4
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 5
+³   ³   ³   ³               ³   ³   ÃÄÄÄUnidad 6
+³   ³   ³   ³               ³   ³   ÀÄÄÄUnidad 9
+³   ³   ³   ³               ³   ÀÄÄÄUnidades
+³   ³   ³   ³               ÀÄÄÄSistemas informaticos
+³   ³   ³   ³                   ÀÄÄÄUnidades
+³   ³   ³   ÀÄÄÄtareas
+³   ³   ³       ÃÄÄÄtarea base de datos
+³   ³   ³       ³   ÃÄÄÄtarea bd01
+³   ³   ³       ³   ³   ÀÄÄÄintermedios
+³   ³   ³       ³   ÃÄÄÄtarea bd02
+³   ³   ³       ³   ³   ÃÄÄÄbajar sqldeveloper 19.2
+³   ³   ³       ³   ³   ÀÄÄÄintermedios
+³   ³   ³       ³   ÀÄÄÄtarea bd03
+³   ³   ³       ³       ÃÄÄÄerika zavala
+³   ³   ³       ³       ÃÄÄÄotros bd03
+³   ³   ³       ³       ÀÄÄÄrecursos bd03
+³   ³   ³       ÃÄÄÄtarea entornos de desarrollo
+³   ³   ³       ³   ÃÄÄÄtarea ed01
+³   ³   ³       ³   ³   ÀÄÄÄcajon entornos desarrollo
+³   ³   ³       ³   ÀÄÄÄtarea ed02
+³   ³   ³       ÃÄÄÄtarea lenguaje de marca
+³   ³   ³       ³   ÃÄÄÄtarea LMSG 02
+³   ³   ³       ³   ³   ÃÄÄÄCarpeta Ejer 1
+³   ³   ³       ³   ³   ³   ÀÄÄÄejer1
+³   ³   ³       ³   ³   ³       ÀÄÄÄimages
+³   ³   ³       ³   ³   ÃÄÄÄCarpeta Ejer 2
+³   ³   ³       ³   ³   ³   ÀÄÄÄejer2
+³   ³   ³       ³   ³   ÃÄÄÄCarpeta Ejer 3
+³   ³   ³       ³   ³   ³   ÀÄÄÄejer3
+³   ³   ³       ³   ³   ÀÄÄÄlmsg02 recursos
+³   ³   ³       ³   ÀÄÄÄtarea LMSG01
+³   ³   ³       ³       ÀÄÄÄcontenido extra lenguaje marcas
+³   ³   ³       ³           ÀÄÄÄintermedios taller
+³   ³   ³       ÃÄÄÄtarea sistemas informaticos
+³   ³   ³       ³   ÃÄÄÄtarea si01
+³   ³   ³       ³   ³   ÀÄÄÄSI 01 INTERMEDIOS
+³   ³   ³       ³   ÃÄÄÄTAREA SI02
+³   ³   ³       ³   ³   ÀÄÄÄintermedios
+³   ³   ³       ³   ÀÄÄÄTAREA SI03
+³   ³   ³       ÀÄÄÄtareas ingles
+³   ³   ³           ÃÄÄÄ1.3
+³   ³   ³           ÃÄÄÄ2.1
+³   ³   ³           ÃÄÄÄ2.2
+³   ³   ³           ÃÄÄÄ2.3
+³   ³   ³           ÃÄÄÄ3.1
+³   ³   ³           ÃÄÄÄ3.2
+³   ³   ³           ÃÄÄÄ3.3
+³   ³   ³           ÃÄÄÄ4.1
+³   ³   ³           ÃÄÄÄ4.2
+³   ³   ³           ÃÄÄÄ4.3
+³   ³   ³           ÃÄÄÄ5.1
+³   ³   ³           ÃÄÄÄ5.3
+³   ³   ³           ÃÄÄÄ6.1
+³   ³   ³           ÃÄÄÄ6.2
+³   ³   ³           ÀÄÄÄ6.3
+³   ³   ÃÄÄÄDESASTRE
+³   ³   ³   ÀÄÄÄpythons
+³   ³   ÃÄÄÄESCRITORIO
+³   ³   ³   ÀÄÄÄsalvar
+³   ³   ³       ÃÄÄÄ3DS HUGO
+³   ³   ³       ³   ÃÄÄÄde roms de cualquier consola a cia
+³   ³   ³       ³   ÀÄÄÄDisco extra¡ble
+³   ³   ³       ³       ÃÄÄÄ3DS
+³   ³   ³       ³       ³   ÃÄÄÄ3hs
+³   ³   ³       ³       ³   ÀÄÄÄAnemone3DS
+³   ³   ³       ³       ³       ÀÄÄÄcache
+³   ³   ³       ³       ÃÄÄÄCIAS_JUEGOS_APP
+³   ³   ³       ³       ÃÄÄÄconfig
+³   ³   ³       ³       ³   ÀÄÄÄhbmenu
+³   ³   ³       ³       ³       ÀÄÄÄfileassoc
+³   ³   ³       ³       ÃÄÄÄgm9
+³   ³   ³       ³       ³   ÃÄÄÄdbs
+³   ³   ³       ³       ³   ÃÄÄÄout
+³   ³   ³       ³       ³   ÃÄÄÄscripts
+³   ³   ³       ³       ³   ÀÄÄÄsupport
+³   ³   ³       ³       ÃÄÄÄluma
+³   ³   ³       ³       ³   ÃÄÄÄbackups
+³   ³   ³       ³       ³   ÃÄÄÄdumps
+³   ³   ³       ³       ³   ³   ÀÄÄÄarm11
+³   ³   ³       ³       ³   ÃÄÄÄpayloads
+³   ³   ³       ³       ³   ÀÄÄÄtitles
+³   ³   ³       ³       ³       ÀÄÄÄ0004008C0019AE00
+³   ³   ³       ³       ÃÄÄÄNintendo 3DS
+³   ³   ³       ³       ³   ÀÄÄÄ5cefa5573cecdb45d477b083bc16cd01
+³   ³   ³       ³       ³       ÀÄÄÄ67cd0107421445045344344700284245
+³   ³   ³       ³       ³           ÃÄÄÄdbs
+³   ³   ³       ³       ³           ÃÄÄÄextdata
+³   ³   ³       ³       ³           ³   ÀÄÄÄ00000000
+³   ³   ³       ³       ³           ³       ÃÄÄÄ00000098
+³   ³   ³       ³       ³           ³       ³   ÀÄÄÄ00000000
+³   ³   ³       ³       ³           ³       ÃÄÄÄ00000220
+³   ³   ³       ³       ³           ³       ³   ÀÄÄÄ00000000
+³   ³   ³       ³       ³           ³       ÃÄÄÄ00000229
+³   ³   ³       ³       ³           ³       ³   ÀÄÄÄ00000000
+³   ³   ³       ³       ³           ³       ÀÄÄÄ000007af
+³   ³   ³       ³       ³           ³           ÀÄÄÄ00000000
+³   ³   ³       ³       ³           ÀÄÄÄtitle
+³   ³   ³       ³       ³               ÃÄÄÄ00040000
+³   ³   ³       ³       ³               ³   ÃÄÄÄ00055000
+³   ³   ³       ³       ³               ³   ³   ÃÄÄÄcontent
+³   ³   ³       ³       ³               ³   ³   ³   ÀÄÄÄcmd
+³   ³   ³       ³       ³               ³   ³   ÀÄÄÄdata
+³   ³   ³       ³       ³               ³   ÃÄÄÄ000ba900
+³   ³   ³       ³       ³               ³   ³   ÃÄÄÄcontent
+³   ³   ³       ³       ³               ³   ³   ³   ÀÄÄÄcmd
+³   ³   ³       ³       ³               ³   ³   ÀÄÄÄdata
+³   ³   ³       ³       ³               ³   ÃÄÄÄ0017c100
+³   ³   ³       ³       ³               ³   ³   ÃÄÄÄcontent
+³   ³   ³       ³       ³               ³   ³   ³   ÀÄÄÄcmd
+³   ³   ³       ³       ³               ³   ³   ÀÄÄÄdata
+³   ³   ³       ³       ³               ³   ÃÄÄÄ03df1000
+³   ³   ³       ³       ³               ³   ³   ÀÄÄÄcontent
+³   ³   ³       ³       ³               ³   ³       ÀÄÄÄcmd
+³   ³   ³       ³       ³               ³   ÃÄÄÄ0bafe000
+³   ³   ³       ³       ³               ³   ³   ÃÄÄÄcontent
+³   ³   ³       ³       ³               ³   ³   ³   ÀÄÄÄcmd
+³   ³   ³       ³       ³               ³   ³   ÀÄÄÄdata
+³   ³   ³       ³       ³               ³   ÃÄÄÄ0d921e00
+³   ³   ³       ³       ³               ³   ³   ÀÄÄÄcontent
+³   ³   ³       ³       ³               ³   ³       ÀÄÄÄcmd
+³   ³   ³       ³       ³               ³   ÀÄÄÄ0f800100
+³   ³   ³       ³       ³               ³       ÀÄÄÄcontent
+³   ³   ³       ³       ³               ³           ÀÄÄÄcmd
+³   ³   ³       ³       ³               ÃÄÄÄ0004000e
+³   ³   ³       ³       ³               ³   ÀÄÄÄ00167800
+³   ³   ³       ³       ³               ³       ÀÄÄÄcontent
+³   ³   ³       ³       ³               ³           ÀÄÄÄcmd
+³   ³   ³       ³       ³               ÀÄÄÄ0004008c
+³   ³   ³       ³       ³                   ÃÄÄÄ0019ab00
+³   ³   ³       ³       ³                   ³   ÀÄÄÄcontent
+³   ³   ³       ³       ³                   ³       ÃÄÄÄ00000000
+³   ³   ³       ³       ³                   ³       ÀÄÄÄcmd
+³   ³   ³       ³       ³                   ÀÄÄÄ0019ae00
+³   ³   ³       ³       ³                       ÀÄÄÄcontent
+³   ³   ³       ³       ³                           ÃÄÄÄ00000000
+³   ³   ³       ³       ³                           ÀÄÄÄcmd
+³   ³   ³       ³       ÃÄÄÄSplashes
+³   ³   ³       ³       ÃÄÄÄThemes
+³   ³   ³       ³       ÀÄÄÄTWLFix
+³   ³   ³       ÃÄÄÄCARNET STS TECNIDRONE Y CARNET AESA
+³   ³   ³       ÃÄÄÄCNC Y 3DSEPTIEMBRE 2023
+³   ³   ³       ³   ÃÄÄÄ3D OCTUBRE 2023
+³   ³   ³       ³   ÃÄÄÄaunmas cnc
+³   ³   ³       ³   ³   ÃÄÄÄASPIREVARIOS
+³   ³   ³       ³   ³   ³   ÃÄÄÄacople cnc balas
+³   ³   ³       ³   ³   ³   ÃÄÄÄbala de pie olivero
+³   ³   ³       ³   ³   ³   ÃÄÄÄfiguras belen
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄ06-08-2022
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄ7-8-22
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄARCHIVOS 05-08-22
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄbelen
+³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄESP-HA-MQTT-PIR4
+³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄSweepdosservo180
+³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄSweepservo180
+³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄSweeptcuatroservo180
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄSweeptresservo180
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄENGRANAJE Y CORREA CIRCULAR
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄINTERMEDIOS
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄSweeptcuatroservopescador180
+³   ³   ³       ³   ³   ³   ÃÄÄÄmascncs
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄagarre para cnc stl
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄalertanines2
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄBOLA NAVIDAD VECINO LUCES
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄescudo gc bala
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄGANCHOS NAVIDAD BALCON Y VALLA
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄLAMPARA pino navidad
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄLLAVERO BMW
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄllavero punta diamante corazon
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄllaveros mas peque¤os bmw cara cruz
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmartillo de inercia
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄPERCHERO Y EMBLEMA PJ ESCUDO VAZQUEZ SIBISSE
+³   ³   ³       ³   ³   ³   ÃÄÄÄpajarera vazquez
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄintermedios pajarera
+³   ³   ³       ³   ³   ³   ÃÄÄÄpegatinas
+³   ³   ³       ³   ³   ³   ÀÄÄÄverificar si google drive
+³   ³   ³       ³   ³   ³       ÃÄÄÄarduinos belen
+³   ³   ³       ³   ³   ³       ³   ÃÄÄÄestanque
+³   ³   ³       ³   ³   ³       ³   ÃÄÄÄsketch_aug11a
+³   ³   ³       ³   ³   ³       ³   ÃÄÄÄSweeptcincos180
+³   ³   ³       ³   ³   ³       ³   ÃÄÄÄSweeptcuatroservo180
+³   ³   ³       ³   ³   ³       ³   ÃÄÄÄSweeptcuatroservodos180
+³   ³   ³       ³   ³   ³       ³   ÀÄÄÄSweeptcuatroservopescador180
+³   ³   ³       ³   ³   ³       ÃÄÄÄcnc azulejo ceramica tallado
+³   ³   ³       ³   ³   ³       ÃÄÄÄPCB SERVOS BELEN
+³   ³   ³       ³   ³   ³       ÀÄÄÄSANTA AMALIA DEFINITIO 2
+³   ³   ³       ³   ³   ³           ÃÄÄÄintermedios
+³   ³   ³       ³   ³   ³           ÀÄÄÄsanta amalia
+³   ³   ³       ³   ³   ÃÄÄÄbala 9mm honor mi divisa xl
+³   ³   ³       ³   ³   ÃÄÄÄBALA POLILLA
+³   ³   ³       ³   ³   ÃÄÄÄbalas cnc
+³   ³   ³       ³   ³   ÃÄÄÄchapas
+³   ³   ³       ³   ³   ³   ÃÄÄÄlineas‡
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄgokuchapa y cubrechapa stl
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄLOGO chapa INFORMACION
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄLOGO PJ CHAPA
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄrepujado san valentin
+³   ³   ³       ³   ³   ³   ÃÄÄÄPARIS chapa
+³   ³   ³       ³   ³   ³   ÀÄÄÄrepujado lata aluminio
+³   ³   ³       ³   ³   ÃÄÄÄcorrea reloj
+³   ³   ³       ³   ³   ÃÄÄÄmariposa lurdes dia madre
+³   ³   ³       ³   ³   ÀÄÄÄpez pared
+³   ³   ³       ³   ÃÄÄÄbala cetme 762
+³   ³   ³       ³   ÃÄÄÄcetme limon
+³   ³   ³       ³   ÃÄÄÄcnc moneda antigua pescado pez
+³   ³   ³       ³   ÃÄÄÄllavero madera servicio maritimo
+³   ³   ³       ³   ÃÄÄÄNUEVO PORTERO RECONEXION ARDUINO
+³   ³   ³       ³   ³   ÀÄÄÄp4
+³   ³   ³       ³   ÀÄÄÄPOSAVASOS UOPJ  DOBLE CARA
+³   ³   ³       ÃÄÄÄCURSOS DE FP
+³   ³   ³       ÃÄÄÄDOCUMENTACION Y PETICIONES
+³   ³   ³       ³   ÃÄÄÄCERTIFICADOS BANCOS
+³   ³   ³       ³   ³   ÃÄÄÄIBERCAJA SANTA AMALIA PEDIDO POR EMAIL
+³   ³   ³       ³   ³   ÃÄÄÄSANTANDER LEPE
+³   ³   ³       ³   ³   ÀÄÄÄUNICAJA LEPE
+³   ³   ³       ³   ÃÄÄÄESCRITURAS CASAS
+³   ³   ³       ³   ÃÄÄÄoar santa amalia
+³   ³   ³       ³   ÃÄÄÄpersonal
+³   ³   ³       ³   ÃÄÄÄPETICION CERT DEFUNCION ANGELINES
+³   ³   ³       ³   ÃÄÄÄPETICION PLUSVALIA MUNICIPAL VIVENDAS LEPE
+³   ³   ³       ³   ³   ÀÄÄÄSANTA AMALIA
+³   ³   ³       ³   ÃÄÄÄPETICION RECIBO CONTRIBUCION LEPE, ANTILLA, santa amalia
+³   ³   ³       ³   ³   ÀÄÄÄINTERMEDIOS
+³   ³   ³       ³   ÀÄÄÄTESTAMENTOS Y LIBRO FAMILIA
+³   ³   ³       ÃÄÄÄfotos no se si pasadas o no
+³   ³   ³       ³   ÃÄÄÄalejandro
+³   ³   ³       ³   ÃÄÄÄbenagil
+³   ³   ³       ³   ÃÄÄÄisla magica y aquopolis cartaya
+³   ³   ³       ³   ÀÄÄÄtitos
+³   ³   ³       ÃÄÄÄHOME ASSISTANT 2023
+³   ³   ³       ³   ÃÄÄÄnuevo raspberry
+³   ³   ³       ³   ÀÄÄÄPORTERO TELEFONILLO ARDUINO
+³   ³   ³       ³       ÃÄÄÄNUEVO PORTERO
+³   ³   ³       ³       ÃÄÄÄp3
+³   ³   ³       ³       ÀÄÄÄp4
+³   ³   ³       ÃÄÄÄpresentaciones hugo y alejandro colegio
+³   ³   ³       ÀÄÄÄPROGRAMAS
+³   ³   ³           ÃÄÄÄc0rDR4W2K18.AP.ZENTINELS.P0RT4BL3
+³   ³   ³           ³   ÃÄÄÄAddons
+³   ³   ³           ³   ÀÄÄÄCorelDRAW 2018
+³   ³   ³           ³       ÃÄÄÄcache
+³   ³   ³           ³       ³   ÃÄÄÄ0x3B5F3DA3725EA68D
+³   ³   ³           ³       ³   ³   ÃÄÄÄshallow
+³   ³   ³           ³       ³   ³   ÀÄÄÄsxs
+³   ³   ³           ³       ³   ³       ÃÄÄÄBarCode.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄBorderGrommetIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCap.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCapture.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCdrConv.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.resources.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelDRW.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPS2PDF.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlUISvr.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄdimchain.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFitObjectsToPathIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontManager.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontService.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄGPLUninst.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄicuuc44.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄImpactToolIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄInterprocessController.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPP.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPPInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄManifests
+³   ³   ³           ³       ³   ³       ÃÄÄÄMSOICONS.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄomnitracking.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvert.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvertInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄPhotoCocktailIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPointillizerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrepAndStretchIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrintWiz.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄProjectTimerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiClient.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIClientBridgeProxy.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIKey-33001.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiService_2.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Core.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Gui.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Widgets.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄRegisterCGS.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄscprtl20.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄScript.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄSELFCERT.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetup.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupARP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupXML.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShellInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShortcuts.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄtBar7.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄTWAINDSM.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVBEUI.DLL
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaCodeProvider.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_CUH@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_DIM@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_MSICrlPCU_s@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_PASMUtility@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_SerChckV2@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄx86_SQLite.Interop.2010@1.0.106.0
+³   ³   ³           ³       ³   ³       ÀÄÄÄ_vbeui@7.1.0.0
+³   ³   ³           ³       ³   ÃÄÄÄ0x56F5DE7088509AA9
+³   ³   ³           ³       ³   ³   ÃÄÄÄshallow
+³   ³   ³           ³       ³   ³   ÀÄÄÄsxs
+³   ³   ³           ³       ³   ³       ÃÄÄÄBarCode.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄBorderGrommetIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCap.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCapture.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCdrConv.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.resources.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelDRW.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPS2PDF.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlUISvr.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄdimchain.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFitObjectsToPathIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontManager.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontService.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄGPLUninst.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄicuuc44.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄImpactToolIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄInterprocessController.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPP.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPPInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄManifests
+³   ³   ³           ³       ³   ³       ÃÄÄÄMSOICONS.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄomnitracking.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvert.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvertInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄPhotoCocktailIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPointillizerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrepAndStretchIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrintWiz.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄProjectTimerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiClient.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIClientBridgeProxy.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIKey-33001.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiService_2.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Core.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Gui.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Widgets.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄRegisterCGS.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄscprtl20.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄScript.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄSELFCERT.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetup.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupARP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupXML.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShellInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShortcuts.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄtBar7.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄTWAINDSM.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVBEUI.DLL
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaCodeProvider.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_CUH@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_DIM@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_MSICrlPCU_s@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_PASMUtility@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_SerChckV2@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄx86_SQLite.Interop.2010@1.0.106.0
+³   ³   ³           ³       ³   ³       ÀÄÄÄ_vbeui@7.1.0.0
+³   ³   ³           ³       ³   ÃÄÄÄ0x75FD400702A751F2
+³   ³   ³           ³       ³   ³   ÃÄÄÄshallow
+³   ³   ³           ³       ³   ³   ÀÄÄÄsxs
+³   ³   ³           ³       ³   ³       ÃÄÄÄBarCode.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄBorderGrommetIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCap.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCapture.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCdrConv.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.resources.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelDRW.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPS2PDF.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlUISvr.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄdimchain.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFitObjectsToPathIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontManager.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontService.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄGPLUninst.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄicuuc44.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄImpactToolIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄInterprocessController.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPP.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPPInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄManifests
+³   ³   ³           ³       ³   ³       ÃÄÄÄMSOICONS.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄomnitracking.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvert.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvertInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄPhotoCocktailIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPointillizerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrepAndStretchIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrintWiz.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄProjectTimerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiClient.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIClientBridgeProxy.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIKey-33001.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiService_2.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Core.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Gui.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Widgets.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄRegisterCGS.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄscprtl20.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄScript.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄSELFCERT.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetup.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupARP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupXML.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShellInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShortcuts.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄtBar7.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄTWAINDSM.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVBEUI.DLL
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaCodeProvider.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_CUH@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_DIM@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_MSICrlPCU_s@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_PASMUtility@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_SerChckV2@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄx86_SQLite.Interop.2010@1.0.106.0
+³   ³   ³           ³       ³   ³       ÀÄÄÄ_vbeui@7.1.0.0
+³   ³   ³           ³       ³   ÃÄÄÄ0xCC54CA61725DFAF8
+³   ³   ³           ³       ³   ³   ÃÄÄÄshallow
+³   ³   ³           ³       ³   ³   ÀÄÄÄsxs
+³   ³   ³           ³       ³   ³       ÃÄÄÄBarCode.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄBorderGrommetIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCap.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCapture.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCdrConv.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.resources.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelDRW.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPS2PDF.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlUISvr.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄdimchain.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFitObjectsToPathIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontManager.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontService.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄGPLUninst.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄicuuc44.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄImpactToolIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄInterprocessController.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPP.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPPInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄManifests
+³   ³   ³           ³       ³   ³       ÃÄÄÄMSOICONS.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄomnitracking.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvert.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvertInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄPhotoCocktailIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPointillizerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrepAndStretchIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrintWiz.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄProjectTimerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiClient.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIClientBridgeProxy.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIKey-33001.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiService_2.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Core.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Gui.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Widgets.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄRegisterCGS.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄscprtl20.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄScript.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄSELFCERT.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetup.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupARP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupXML.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShellInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShortcuts.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄtBar7.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄTWAINDSM.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVBEUI.DLL
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaCodeProvider.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_CUH@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_DIM@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_MSICrlPCU_s@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_PASMUtility@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_SerChckV2@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄx86_SQLite.Interop.2010@1.0.106.0
+³   ³   ³           ³       ³   ³       ÀÄÄÄ_vbeui@7.1.0.0
+³   ³   ³           ³       ³   ÃÄÄÄ0xD99E3FE61B0F3E4A
+³   ³   ³           ³       ³   ³   ÃÄÄÄshallow
+³   ³   ³           ³       ³   ³   ÀÄÄÄsxs
+³   ³   ³           ³       ³   ³       ÃÄÄÄBarCode.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄBorderGrommetIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCap.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCapture.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCdrConv.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄConnect.resources.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelDRW.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCorelPS2PDF.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄCrlUISvr.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄdimchain.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFitObjectsToPathIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontManager.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄFontService.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄGPLUninst.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄicuuc44.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄImpactToolIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄInterprocessController.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPP.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄIPPInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄManifests
+³   ³   ³           ³       ³   ³       ÃÄÄÄMSOICONS.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄomnitracking.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvert.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄooxmlConvertInstaller.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄPhotoCocktailIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPointillizerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrepAndStretchIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPrintWiz.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄProjectTimerIntl.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiClient.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIClientBridgeProxy.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPSIKey-33001.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄPsiService_2.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Core.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Gui.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄQt5Widgets.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄRegisterCGS.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄscprtl20.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄScript.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄSELFCERT.EXE
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetup.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupARP.exe
+³   ³   ³           ³       ³   ³       ÃÄÄÄSetupXML.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShellInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄShortcuts.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄtBar7.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄTWAINDSM.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVBEUI.DLL
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaCodeProvider.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄVstaInterop.dll
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_CUH@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_DIM@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_MSICrlPCU_s@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_PASMUtility@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄX86_SerChckV2@13.0.0.235
+³   ³   ³           ³       ³   ³       ÃÄÄÄx86_SQLite.Interop.2010@1.0.106.0
+³   ³   ³           ³       ³   ³       ÀÄÄÄ_vbeui@7.1.0.0
+³   ³   ³           ³       ³   ÀÄÄÄ0xDD3A641CEABDE9E8
+³   ³   ³           ³       ³       ÃÄÄÄshallow
+³   ³   ³           ³       ³       ÀÄÄÄsxs
+³   ³   ³           ³       ³           ÃÄÄÄBarCode.exe
+³   ³   ³           ³       ³           ÃÄÄÄBorderGrommetIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄCap.exe
+³   ³   ³           ³       ³           ÃÄÄÄCapture.exe
+³   ³   ³           ³       ³           ÃÄÄÄCdrConv.exe
+³   ³   ³           ³       ³           ÃÄÄÄConnect.exe
+³   ³   ³           ³       ³           ÃÄÄÄConnect.resources.dll
+³   ³   ³           ³       ³           ÃÄÄÄCorelDRW.exe
+³   ³   ³           ³       ³           ÃÄÄÄCorelPP.exe
+³   ³   ³           ³       ³           ÃÄÄÄCorelPS2PDF.exe
+³   ³   ³           ³       ³           ÃÄÄÄCrlInterop.dll
+³   ³   ³           ³       ³           ÃÄÄÄCrlUISvr.exe
+³   ³   ³           ³       ³           ÃÄÄÄdimchain.exe
+³   ³   ³           ³       ³           ÃÄÄÄFitObjectsToPathIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄFontManager.exe
+³   ³   ³           ³       ³           ÃÄÄÄFontService.exe
+³   ³   ³           ³       ³           ÃÄÄÄGPLUninst.exe
+³   ³   ³           ³       ³           ÃÄÄÄicuuc44.dll
+³   ³   ³           ³       ³           ÃÄÄÄImpactToolIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄInterprocessController.exe
+³   ³   ³           ³       ³           ÃÄÄÄIPP.dll
+³   ³   ³           ³       ³           ÃÄÄÄIPPInstaller.exe
+³   ³   ³           ³       ³           ÃÄÄÄManifests
+³   ³   ³           ³       ³           ÃÄÄÄMSOICONS.EXE
+³   ³   ³           ³       ³           ÃÄÄÄomnitracking.dll
+³   ³   ³           ³       ³           ÃÄÄÄooxmlConvert.exe
+³   ³   ³           ³       ³           ÃÄÄÄooxmlConvertInstaller.exe
+³   ³   ³           ³       ³           ÃÄÄÄPhotoCocktailIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄPointillizerIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄPrepAndStretchIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄPrintWiz.exe
+³   ³   ³           ³       ³           ÃÄÄÄProjectTimerIntl.dll
+³   ³   ³           ³       ³           ÃÄÄÄPsiClient.dll
+³   ³   ³           ³       ³           ÃÄÄÄPSIClientBridgeProxy.dll
+³   ³   ³           ³       ³           ÃÄÄÄPSIKey-33001.dll
+³   ³   ³           ³       ³           ÃÄÄÄPsiService_2.exe
+³   ³   ³           ³       ³           ÃÄÄÄQt5Core.dll
+³   ³   ³           ³       ³           ÃÄÄÄQt5Gui.dll
+³   ³   ³           ³       ³           ÃÄÄÄQt5Widgets.dll
+³   ³   ³           ³       ³           ÃÄÄÄRegisterCGS.exe
+³   ³   ³           ³       ³           ÃÄÄÄscprtl20.dll
+³   ³   ³           ³       ³           ÃÄÄÄScript.dll
+³   ³   ³           ³       ³           ÃÄÄÄSELFCERT.EXE
+³   ³   ³           ³       ³           ÃÄÄÄSetup.exe
+³   ³   ³           ³       ³           ÃÄÄÄSetupARP.exe
+³   ³   ³           ³       ³           ÃÄÄÄSetupXML.dll
+³   ³   ³           ³       ³           ÃÄÄÄShellInterop.dll
+³   ³   ³           ³       ³           ÃÄÄÄShortcuts.dll
+³   ³   ³           ³       ³           ÃÄÄÄtBar7.dll
+³   ³   ³           ³       ³           ÃÄÄÄTWAINDSM.dll
+³   ³   ³           ³       ³           ÃÄÄÄVBEUI.DLL
+³   ³   ³           ³       ³           ÃÄÄÄVstaCodeProvider.dll
+³   ³   ³           ³       ³           ÃÄÄÄVstaInterop.dll
+³   ³   ³           ³       ³           ÃÄÄÄX86_CUH@13.0.0.235
+³   ³   ³           ³       ³           ÃÄÄÄX86_DIM@13.0.0.235
+³   ³   ³           ³       ³           ÃÄÄÄX86_MSICrlPCU_s@13.0.0.235
+³   ³   ³           ³       ³           ÃÄÄÄX86_PASMUtility@13.0.0.235
+³   ³   ³           ³       ³           ÃÄÄÄX86_SerChckV2@13.0.0.235
+³   ³   ³           ³       ³           ÃÄÄÄx86_SQLite.Interop.2010@1.0.106.0
+³   ³   ³           ³       ³           ÀÄÄÄ_vbeui@7.1.0.0
+³   ³   ³           ³       ÃÄÄÄlocal
+³   ³   ³           ³       ³   ÃÄÄÄmeta
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@APPDATA@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³   ³   ³           ÃÄÄÄColor
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄDraw
+³   ³   ³           ³       ³   ³   ³               ÀÄÄÄExtensionsUnpacked
+³   ³   ³           ³       ³   ³   ³                   ÀÄÄÄx32
+³   ³   ³           ³       ³   ³   ³                       ÃÄÄÄ06ed254f-a817-f4b3-42fa-6a0f17c0ed8f
+³   ³   ³           ³       ³   ³   ³                       ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³   ³   ³                       ÃÄÄÄ27497c18-7f70-4975-9e15-b9c94e309f10
+³   ³   ³           ³       ³   ³   ³                       ³   ÀÄÄÄ1.0.3
+³   ³   ³           ³       ³   ³   ³                       ÃÄÄÄ6b4f096b-3fc7-4854-87e2-a352c98a05a2
+³   ³   ³           ³       ³   ³   ³                       ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³   ³   ³                       ÃÄÄÄ7922210e-cb01-93b9-4a1f-d2869a44c218
+³   ³   ³           ³       ³   ³   ³                       ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³   ³   ³                       ÃÄÄÄd4a17774-959a-4be2-b243-0dbd8cf4b9ca
+³   ³   ³           ³       ³   ³   ³                       ³   ÀÄÄÄ1.0.3
+³   ³   ³           ³       ³   ³   ³                       ÀÄÄÄed11c5a7-6eb7-42b8-bebb-d54fb3f95e5d
+³   ³   ³           ³       ³   ³   ³                           ÀÄÄÄ1.0.1
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@APPDATACOMMON@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄMessages
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄ540227992_807001
+³   ³   ³           ³       ³   ³   ³               ÀÄÄÄEN
+³   ³   ³           ³       ³   ³   ³                   ÀÄÄÄMessageCache1
+³   ³   ³           ³       ³   ³   ³                       ÀÄÄÄWorkflow
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@APPDATALOCAL@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄMicrosoft
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄCLR_v4.0_32
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄUsageLogs
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@DESKTOP@
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@DOCUMENTSCOMMON@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄContent 2018
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄTemplates
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@PROGRAMFILESCOMMONX86@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄmicrosoft shared
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄVSTA
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄ15.0
+³   ³   ³           ³       ³   ³   ³               ÀÄÄÄBin
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@PROGRAMFILESX86@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³   ³   ³           ÃÄÄÄConnect
+³   ³   ³           ³       ³   ³   ³           ÃÄÄÄCustom Data
+³   ³   ³           ³       ³   ³   ³           ³   ÀÄÄÄExport
+³   ³   ³           ³       ³   ³   ³           ÃÄÄÄLanguages
+³   ³   ³           ³       ³   ³   ³           ³   ÀÄÄÄEN
+³   ³   ³           ³       ³   ³   ³           ³       ÀÄÄÄDraw
+³   ³   ³           ³       ³   ³   ³           ³           ÀÄÄÄSkin
+³   ³   ³           ³       ³   ³   ³           ÃÄÄÄPrograms
+³   ³   ³           ³       ³   ³   ³           ³   ÀÄÄÄplatforms
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄWritingTools
+³   ³   ³           ³       ³   ³   ÀÄÄÄ@WINDIR@
+³   ³   ³           ³       ³   ³       ÃÄÄÄassembly
+³   ³   ³           ³       ³   ³       ÃÄÄÄFonts
+³   ³   ³           ³       ³   ³       ÀÄÄÄMicrosoft.NET
+³   ³   ³           ³       ³   ³           ÀÄÄÄassembly
+³   ³   ³           ³       ³   ³               ÀÄÄÄGAC_MSIL
+³   ³   ³           ³       ³   ³                   ÀÄÄÄMicrosoft.VisualStudio.Tools.Applications.Common
+³   ³   ³           ³       ³   ³                       ÀÄÄÄv4.0_15.0.0.0__b03f5f7f11d50a3a
+³   ³   ³           ³       ³   ÀÄÄÄmodified
+³   ³   ³           ³       ³       ÃÄÄÄ@APPDATA@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÀÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³       ³           ÃÄÄÄColor
+³   ³   ³           ³       ³       ³           ³   ÀÄÄÄSettings
+³   ³   ³           ³       ³       ³           ÃÄÄÄDraw
+³   ³   ³           ³       ³       ³           ³   ÀÄÄÄExtensionsUnpacked
+³   ³   ³           ³       ³       ³           ³       ÀÄÄÄx32
+³   ³   ³           ³       ³       ³           ³           ÃÄÄÄ06ed254f-a817-f4b3-42fa-6a0f17c0ed8f
+³   ³   ³           ³       ³       ³           ³           ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³       ³           ³           ÃÄÄÄ27497c18-7f70-4975-9e15-b9c94e309f10
+³   ³   ³           ³       ³       ³           ³           ³   ÀÄÄÄ1.0.3
+³   ³   ³           ³       ³       ³           ³           ÃÄÄÄ6b4f096b-3fc7-4854-87e2-a352c98a05a2
+³   ³   ³           ³       ³       ³           ³           ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³       ³           ³           ÃÄÄÄ7922210e-cb01-93b9-4a1f-d2869a44c218
+³   ³   ³           ³       ³       ³           ³           ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³       ³           ³           ÃÄÄÄd4a17774-959a-4be2-b243-0dbd8cf4b9ca
+³   ³   ³           ³       ³       ³           ³           ³   ÀÄÄÄ1.0.3
+³   ³   ³           ³       ³       ³           ³           ÀÄÄÄed11c5a7-6eb7-42b8-bebb-d54fb3f95e5d
+³   ³   ³           ³       ³       ³           ³               ÀÄÄÄ1.0.1
+³   ³   ³           ³       ³       ³           ÀÄÄÄSymbols
+³   ³   ³           ³       ³       ÃÄÄÄ@APPDATACOMMON@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÀÄÄÄMessages
+³   ³   ³           ³       ³       ³           ÀÄÄÄ540227992_807001
+³   ³   ³           ³       ³       ³               ÀÄÄÄEN
+³   ³   ³           ³       ³       ³                   ÀÄÄÄMessageCache1
+³   ³   ³           ³       ³       ³                       ÀÄÄÄWorkflow
+³   ³   ³           ³       ³       ³                           ÀÄÄÄui
+³   ³   ³           ³       ³       ÃÄÄÄ@APPDATALOCAL@
+³   ³   ³           ³       ³       ³   ÀÄÄÄMicrosoft
+³   ³   ³           ³       ³       ³       ÀÄÄÄCLR_v4.0_32
+³   ³   ³           ³       ³       ³           ÀÄÄÄUsageLogs
+³   ³   ³           ³       ³       ÃÄÄÄ@DESKTOP@
+³   ³   ³           ³       ³       ÃÄÄÄ@DOCUMENTSCOMMON@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÀÄÄÄContent 2018
+³   ³   ³           ³       ³       ³           ÀÄÄÄTemplates
+³   ³   ³           ³       ³       ³               ÀÄÄÄDentist - NA
+³   ³   ³           ³       ³       ÃÄÄÄ@PROGRAMFILESCOMMONX86@
+³   ³   ³           ³       ³       ³   ÀÄÄÄmicrosoft shared
+³   ³   ³           ³       ³       ³       ÀÄÄÄVSTA
+³   ³   ³           ³       ³       ³           ÀÄÄÄ15.0
+³   ³   ³           ³       ³       ³               ÀÄÄÄBin
+³   ³   ³           ³       ³       ÃÄÄÄ@PROGRAMFILESX86@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÀÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³       ³           ÃÄÄÄColor
+³   ³   ³           ³       ³       ³           ÃÄÄÄConnect
+³   ³   ³           ³       ³       ³           ÃÄÄÄCustom Data
+³   ³   ³           ³       ³       ³           ³   ÀÄÄÄExport
+³   ³   ³           ³       ³       ³           ÃÄÄÄExtensions
+³   ³   ³           ³       ³       ³           ÃÄÄÄLanguages
+³   ³   ³           ³       ³       ³           ³   ÀÄÄÄEN
+³   ³   ³           ³       ³       ³           ³       ÀÄÄÄDraw
+³   ³   ³           ³       ³       ³           ³           ÀÄÄÄSkin
+³   ³   ³           ³       ³       ³           ÃÄÄÄPrograms
+³   ³   ³           ³       ³       ³           ³   ÀÄÄÄplatforms
+³   ³   ³           ³       ³       ³           ÀÄÄÄWritingTools
+³   ³   ³           ³       ³       ÀÄÄÄ@WINDIR@
+³   ³   ³           ³       ³           ÃÄÄÄassembly
+³   ³   ³           ³       ³           ÃÄÄÄFonts
+³   ³   ³           ³       ³           ÀÄÄÄMicrosoft.NET
+³   ³   ³           ³       ³               ÀÄÄÄassembly
+³   ³   ³           ³       ³                   ÀÄÄÄGAC_MSIL
+³   ³   ³           ³       ³                       ÀÄÄÄMicrosoft.VisualStudio.Tools.Applications.Common
+³   ³   ³           ³       ÃÄÄÄroaming
+³   ³   ³           ³       ³   ÃÄÄÄmeta
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@APPDATA@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³   ³       ÃÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³   ³   ³       ³   ÃÄÄÄColor
+³   ³   ³           ³       ³   ³   ³       ³   ÃÄÄÄConfig
+³   ³   ³           ³       ³   ³   ³       ³   ÃÄÄÄCustom Data
+³   ³   ³           ³       ³   ³   ³       ³   ÃÄÄÄDraw
+³   ³   ³           ³       ³   ³   ³       ³   ³   ÃÄÄÄExtensionsUnpacked
+³   ³   ³           ³       ³   ³   ³       ³   ³   ³   ÀÄÄÄx32
+³   ³   ³           ³       ³   ³   ³       ³   ³   ÀÄÄÄWorkspace
+³   ³   ³           ³       ³   ³   ³       ³   ÀÄÄÄPHOTO-PAINT
+³   ³   ³           ³       ³   ³   ³       ³       ÃÄÄÄExtensionsUnpacked
+³   ³   ³           ³       ³   ³   ³       ³       ³   ÀÄÄÄx32
+³   ³   ³           ³       ³   ³   ³       ³       ÃÄÄÄPresets
+³   ³   ³           ³       ³   ³   ³       ³       ³   ÀÄÄÄBrush
+³   ³   ³           ³       ³   ³   ³       ³       ÀÄÄÄWorkspace
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄDatabases
+³   ³   ³           ³       ³   ³   ³           ÃÄÄÄFills V1.0
+³   ³   ³           ³       ³   ³   ³           ÀÄÄÄV2.1
+³   ³   ³           ³       ³   ³   ÃÄÄÄ@DOCUMENTSCOMMON@
+³   ³   ³           ³       ³   ³   ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³   ³       ÀÄÄÄContent 2018
+³   ³   ³           ³       ³   ³   ÀÄÄÄ@PROGRAMFILESX86@
+³   ³   ³           ³       ³   ³       ÀÄÄÄCorel
+³   ³   ³           ³       ³   ³           ÀÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³   ³               ÃÄÄÄColor
+³   ³   ³           ³       ³   ³               ÃÄÄÄConfig
+³   ³   ³           ³       ³   ³               ÃÄÄÄDraw
+³   ³   ³           ³       ³   ³               ÃÄÄÄFilters
+³   ³   ³           ³       ³   ³               ÃÄÄÄPHOTO-PAINT
+³   ³   ³           ³       ³   ³               ÀÄÄÄWritingTools
+³   ³   ³           ³       ³   ÀÄÄÄmodified
+³   ³   ³           ³       ³       ÃÄÄÄ@APPDATA@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÃÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄColor
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄConfig
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄConnect
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄCustom Data
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄExport
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄLayouts
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄPreflight Styles
+³   ³   ³           ³       ³       ³       ³   ³   ÀÄÄÄPrint Styles
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄDraw
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄExport
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄExtensionsUnpacked
+³   ³   ³           ³       ³       ³       ³   ³   ³   ÀÄÄÄx32
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÃÄÄÄ06ed254f-a817-f4b3-42fa-6a0f17c0ed8f
+³   ³   ³           ³       ³       ³       ³   ³   ³       ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÃÄÄÄ27497c18-7f70-4975-9e15-b9c94e309f10
+³   ³   ³           ³       ³       ³       ³   ³   ³       ³   ÀÄÄÄ1.0.3
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÃÄÄÄ6b4f096b-3fc7-4854-87e2-a352c98a05a2
+³   ³   ³           ³       ³       ³       ³   ³   ³       ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÃÄÄÄ7922210e-cb01-93b9-4a1f-d2869a44c218
+³   ³   ³           ³       ³       ³       ³   ³   ³       ³   ÀÄÄÄ1.0.2
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÃÄÄÄd4a17774-959a-4be2-b243-0dbd8cf4b9ca
+³   ³   ³           ³       ³       ³       ³   ³   ³       ³   ÀÄÄÄ1.0.3
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÀÄÄÄed11c5a7-6eb7-42b8-bebb-d54fb3f95e5d
+³   ³   ³           ³       ³       ³       ³   ³   ³           ÀÄÄÄ1.0.1
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄObject Data
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄPresets
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄPreviewCache
+³   ³   ³           ³       ³       ³       ³   ³   ÀÄÄÄWorkspace
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄPHOTO-PAINT
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄExtensionsUnpacked
+³   ³   ³           ³       ³       ³       ³   ³   ³   ÀÄÄÄx32
+³   ³   ³           ³       ³       ³       ³   ³   ³       ÀÄÄÄaf9814c6-a0cd-46e9-b004-6ae093e0a184
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄPresets
+³   ³   ³           ³       ³       ³       ³   ³   ³   ÀÄÄÄBrush
+³   ³   ³           ³       ³       ³       ³   ³   ÃÄÄÄPreviewCache
+³   ³   ³           ³       ³       ³       ³   ³   ÀÄÄÄWorkspace
+³   ³   ³           ³       ³       ³       ³   ÀÄÄÄWritingTools
+³   ³   ³           ³       ³       ³       ÃÄÄÄDatabases
+³   ³   ³           ³       ³       ³       ³   ÃÄÄÄFills V1.0
+³   ³   ³           ³       ³       ³       ³   ÀÄÄÄV2.1
+³   ³   ³           ³       ³       ³       ÃÄÄÄMessages
+³   ³   ³           ³       ³       ³       ³   ÀÄÄÄ540227992_807001
+³   ³   ³           ³       ³       ³       ÀÄÄÄPhotoCocktail
+³   ³   ³           ³       ³       ³           ÀÄÄÄ1.20
+³   ³   ³           ³       ³       ÃÄÄÄ@APPDATACOMMON@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÃÄÄÄbin
+³   ³   ³           ³       ³       ³       ³   ÀÄÄÄ540227504
+³   ³   ³           ³       ³       ³       ³       ÀÄÄÄ540227992
+³   ³   ³           ³       ³       ³       ÃÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³       ³       ³   ÀÄÄÄ0563300137
+³   ³   ³           ³       ³       ³       ÀÄÄÄMessages
+³   ³   ³           ³       ³       ³           ÃÄÄÄ540227504_999920
+³   ³   ³           ³       ³       ³           ³   ÀÄÄÄEN
+³   ³   ³           ³       ³       ³           ³       ÀÄÄÄMessageCache1
+³   ³   ³           ³       ³       ³           ³           ÀÄÄÄWorkflow
+³   ³   ³           ³       ³       ³           ÀÄÄÄ540227992_807001
+³   ³   ³           ³       ³       ³               ÀÄÄÄEN
+³   ³   ³           ³       ³       ³                   ÀÄÄÄMessageCache1
+³   ³   ³           ³       ³       ³                       ÃÄÄÄMessages
+³   ³   ³           ³       ³       ³                       ÀÄÄÄWorkflow
+³   ³   ³           ³       ³       ³                           ÃÄÄÄshared
+³   ³   ³           ³       ³       ³                           ÀÄÄÄui
+³   ³   ³           ³       ³       ÃÄÄÄ@APPDIR@
+³   ³   ³           ³       ³       ³   ÀÄÄÄ__Xenocode
+³   ³   ³           ³       ³       ³       ÀÄÄÄx86
+³   ³   ³           ³       ³       ÃÄÄÄ@DESKTOP@
+³   ³   ³           ³       ³       ³   ÃÄÄÄc0rDR4W2K18.AP.ZENTINELS.P0RT4BL3
+³   ³   ³           ³       ³       ³   ³   ÀÄÄÄ__Xenocode
+³   ³   ³           ³       ³       ³   ³       ÀÄÄÄx86
+³   ³   ³           ³       ³       ³   ÃÄÄÄcorel draw 2018 portable portugues
+³   ³   ³           ³       ³       ³   ³   ÀÄÄÄ__Xenocode
+³   ³   ³           ³       ³       ³   ³       ÀÄÄÄx86
+³   ³   ³           ³       ³       ³   ÀÄÄÄPROGRAMAS
+³   ³   ³           ³       ³       ³       ÀÄÄÄc0rDR4W2K18.AP.ZENTINELS.P0RT4BL3
+³   ³   ³           ³       ³       ³           ÀÄÄÄ__Xenocode
+³   ³   ³           ³       ³       ³               ÀÄÄÄx86
+³   ³   ³           ³       ³       ÃÄÄÄ@DOCUMENTSCOMMON@
+³   ³   ³           ³       ³       ³   ÀÄÄÄCorel
+³   ³   ³           ³       ³       ³       ÀÄÄÄContent 2018
+³   ³   ³           ³       ³       ³           ÀÄÄÄTemplates
+³   ³   ³           ³       ³       ÃÄÄÄ@PROGRAMFILESCOMMONX86@
+³   ³   ³           ³       ³       ³   ÀÄÄÄmicrosoft shared
+³   ³   ³           ³       ³       ³       ÃÄÄÄOFFICE11
+³   ³   ³           ³       ³       ³       ÀÄÄÄVSTA
+³   ³   ³           ³       ³       ³           ÀÄÄÄ15.0
+³   ³   ³           ³       ³       ³               ÃÄÄÄBin
+³   ³   ³           ³       ³       ³               ÀÄÄÄCommon
+³   ³   ³           ³       ³       ÃÄÄÄ@PROGRAMFILESX86@
+³   ³   ³           ³       ³       ³   ÃÄÄÄCorel
+³   ³   ³           ³       ³       ³   ³   ÃÄÄÄCorelDRAW Graphics Suite 2018
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄColor
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄConfig
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄConnect
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÃÄÄÄes-ES
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄSearches
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄCustom Data
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄData
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄWelcomeBook
+³   ³   ³           ³       ³       ³   ³   ³   ³       ÃÄÄÄpages
+³   ³   ³           ³       ³       ³   ³   ³   ³       ³   ÀÄÄÄget-started
+³   ³   ³           ³       ³       ³   ³   ³   ³       ÀÄÄÄstatic
+³   ³   ³           ³       ³       ³   ³   ³   ³           ÀÄÄÄipp
+³   ³   ³           ³       ³       ³   ³   ³   ³               ÃÄÄÄcss
+³   ³   ³           ³       ³       ³   ³   ³   ³               ³   ÀÄÄÄwelcome-book
+³   ³   ³           ³       ³       ³   ³   ³   ³               ÃÄÄÄdata
+³   ³   ³           ³       ³       ³   ³   ³   ³               ³   ÀÄÄÄoffline
+³   ³   ³           ³       ³       ³   ³   ³   ³               ÃÄÄÄimages
+³   ³   ³           ³       ³       ³   ³   ³   ³               ³   ÀÄÄÄwelcome-book
+³   ³   ³           ³       ³       ³   ³   ³   ³               ÀÄÄÄjs
+³   ³   ³           ³       ³       ³   ³   ³   ³                   ÀÄÄÄwelcome-book
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄDraw
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÃÄÄÄCorelVSTA
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄPresets
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄFilters
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄFontManager
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄLanguages
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄEN
+³   ³   ³           ³       ³       ³   ³   ³   ³       ÃÄÄÄCustom Data
+³   ³   ³           ³       ³       ³   ³   ³   ³       ÀÄÄÄPrograms
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄPHOTO-PAINT
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄCorelVSTA
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄPlugins
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄDigimarc
+³   ³   ³           ³       ³       ³   ³   ³   ÃÄÄÄPrograms
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÃÄÄÄAddons
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄCalloutTool
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄComAddOn
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄDimension
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄDocInfoTool
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄExportPreview
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄImageAcquire
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄNewFromTemplate
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄObjectCoords
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄPPSettings
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄSettings
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄShaping
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄTaskProgress
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄThumbnail
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÃÄÄÄVGSettings
+³   ³   ³           ³       ³       ³   ³   ³   ³   ³   ÀÄÄÄWebServicesTool
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÃÄÄÄAssemblies
+³   ³   ³           ³       ³       ³   ³   ³   ³   ÀÄÄÄplatforms
+³   ³   ³           ³       ³       ³   ³   ³   ÀÄÄÄWritingTools
+³   ³   ³           ³       ³       ³   ³   ³       ÀÄÄÄBin
+³   ³   ³           ³       ³       ³   ³   ÀÄÄÄPASMUtility
+³   ³   ³           ³       ³       ³   ³       ÀÄÄÄv1
+³   ³   ³           ³       ³       ³   ÀÄÄÄgs
+³   ³   ³           ³       ³       ³       ÀÄÄÄgs8.64
+³   ³   ³           ³       ³       ³           ÃÄÄÄbin
+³   ³   ³           ³       ³       ³           ÀÄÄÄlib
+³   ³   ³           ³       ³       ÃÄÄÄ@SYSWOW64@
+³   ³   ³           ³       ³       ÀÄÄÄ@WINDIR@
+³   ³   ³           ³       ³           ÀÄÄÄMicrosoft.NET
+³   ³   ³           ³       ³               ÀÄÄÄassembly
+³   ³   ³           ³       ³                   ÀÄÄÄGAC_MSIL
+³   ³   ³           ³       ³                       ÀÄÄÄMicrosoft.VisualStudio.Tools.Applications.Common
+³   ³   ³           ³       ÀÄÄÄstubcache
+³   ³   ³           ÃÄÄÄMicroSoft Office 2007 With Key -THADOGG
+³   ³   ³           ³   ÃÄÄÄAccess.en-us
+³   ³   ³           ³   ³   ÀÄÄÄAccess.en-us
+³   ³   ³           ³   ÃÄÄÄAdmin
+³   ³   ³           ³   ³   ÃÄÄÄde-de
+³   ³   ³           ³   ³   ÃÄÄÄen-us
+³   ³   ³           ³   ³   ÃÄÄÄes-es
+³   ³   ³           ³   ³   ÃÄÄÄfr-fr
+³   ³   ³           ³   ³   ÃÄÄÄit-it
+³   ³   ³           ³   ³   ÃÄÄÄja-jp
+³   ³   ³           ³   ³   ÃÄÄÄko-kr
+³   ³   ³           ³   ³   ÃÄÄÄzh-cn
+³   ³   ³           ³   ³   ÀÄÄÄzh-tw
+³   ³   ³           ³   ÃÄÄÄCatalog
+³   ³   ³           ³   ÃÄÄÄEnterprise.WW
+³   ³   ³           ³   ÃÄÄÄExcel.en-us
+³   ³   ³           ³   ÃÄÄÄGroove.en-us
+³   ³   ³           ³   ³   ÀÄÄÄGroove.en-us
+³   ³   ³           ³   ÃÄÄÄInfoPath.en-us
+³   ³   ³           ³   ÃÄÄÄOffice.en-us
+³   ³   ³           ³   ³   ÀÄÄÄ1033
+³   ³   ³           ³   ÃÄÄÄOffice64.en-us
+³   ³   ³           ³   ÃÄÄÄOneNote.en-us
+³   ³   ³           ³   ÃÄÄÄOutlook.en-us
+³   ³   ³           ³   ÃÄÄÄPowerPoint.en-us
+³   ³   ³           ³   ÃÄÄÄProofing.en-us
+³   ³   ³           ³   ³   ÃÄÄÄProof.en
+³   ³   ³           ³   ³   ÃÄÄÄProof.es
+³   ³   ³           ³   ³   ÀÄÄÄProof.fr
+³   ³   ³           ³   ÃÄÄÄPublisher.en-us
+³   ³   ³           ³   ÃÄÄÄRosebud.en-us
+³   ³   ³           ³   ÃÄÄÄUpdates
+³   ³   ³           ³   ÀÄÄÄWord.en-us
+³   ³   ³           ÃÄÄÄVectric Aspire 9.510 CNC 32 by KickAssCr@cks.com
+³   ³   ³           ÀÄÄÄwisecare
+³   ³   ÃÄÄÄlurdes
+³   ³   ³   ÀÄÄÄAutoFirma
+³   ³   ³       ÀÄÄÄAutoFirma
+³   ³   ³           ÀÄÄÄjre
+³   ³   ³               ÃÄÄÄbin
+³   ³   ³               ³   ÀÄÄÄserver
+³   ³   ³               ÃÄÄÄconf
+³   ³   ³               ³   ÃÄÄÄmanagement
+³   ³   ³               ³   ÀÄÄÄsecurity
+³   ³   ³               ³       ÀÄÄÄpolicy
+³   ³   ³               ³           ÃÄÄÄlimited
+³   ³   ³               ³           ÀÄÄÄunlimited
+³   ³   ³               ÃÄÄÄlegal
+³   ³   ³               ³   ÃÄÄÄjava.base
+³   ³   ³               ³   ÃÄÄÄjava.compiler
+³   ³   ³               ³   ÃÄÄÄjava.datatransfer
+³   ³   ³               ³   ÃÄÄÄjava.desktop
+³   ³   ³               ³   ÃÄÄÄjava.instrument
+³   ³   ³               ³   ÃÄÄÄjava.logging
+³   ³   ³               ³   ÃÄÄÄjava.management
+³   ³   ³               ³   ÃÄÄÄjava.management.rmi
+³   ³   ³               ³   ÃÄÄÄjava.naming
+³   ³   ³               ³   ÃÄÄÄjava.net.http
+³   ³   ³               ³   ÃÄÄÄjava.prefs
+³   ³   ³               ³   ÃÄÄÄjava.rmi
+³   ³   ³               ³   ÃÄÄÄjava.scripting
+³   ³   ³               ³   ÃÄÄÄjava.se
+³   ³   ³               ³   ÃÄÄÄjava.security.jgss
+³   ³   ³               ³   ÃÄÄÄjava.security.sasl
+³   ³   ³               ³   ÃÄÄÄjava.smartcardio
+³   ³   ³               ³   ÃÄÄÄjava.sql
+³   ³   ³               ³   ÃÄÄÄjava.sql.rowset
+³   ³   ³               ³   ÃÄÄÄjava.transaction.xa
+³   ³   ³               ³   ÃÄÄÄjava.xml
+³   ³   ³               ³   ÃÄÄÄjava.xml.crypto
+³   ³   ³               ³   ÃÄÄÄjdk.accessibility
+³   ³   ³               ³   ÃÄÄÄjdk.charsets
+³   ³   ³               ³   ÃÄÄÄjdk.crypto.cryptoki
+³   ³   ³               ³   ÃÄÄÄjdk.crypto.ec
+³   ³   ³               ³   ÃÄÄÄjdk.crypto.mscapi
+³   ³   ³               ³   ÃÄÄÄjdk.dynalink
+³   ³   ³               ³   ÃÄÄÄjdk.httpserver
+³   ³   ³               ³   ÃÄÄÄjdk.incubator.foreign
+³   ³   ³               ³   ÃÄÄÄjdk.incubator.vector
+³   ³   ³               ³   ÃÄÄÄjdk.internal.vm.ci
+³   ³   ³               ³   ÃÄÄÄjdk.internal.vm.compiler
+³   ³   ³               ³   ÃÄÄÄjdk.internal.vm.compiler.management
+³   ³   ³               ³   ÃÄÄÄjdk.jdwp.agent
+³   ³   ³               ³   ÃÄÄÄjdk.jfr
+³   ³   ³               ³   ÃÄÄÄjdk.jsobject
+³   ³   ³               ³   ÃÄÄÄjdk.localedata
+³   ³   ³               ³   ÃÄÄÄjdk.management
+³   ³   ³               ³   ÃÄÄÄjdk.management.agent
+³   ³   ³               ³   ÃÄÄÄjdk.management.jfr
+³   ³   ³               ³   ÃÄÄÄjdk.naming.dns
+³   ³   ³               ³   ÃÄÄÄjdk.naming.rmi
+³   ³   ³               ³   ÃÄÄÄjdk.net
+³   ³   ³               ³   ÃÄÄÄjdk.nio.mapmode
+³   ³   ³               ³   ÃÄÄÄjdk.sctp
+³   ³   ³               ³   ÃÄÄÄjdk.security.auth
+³   ³   ³               ³   ÃÄÄÄjdk.security.jgss
+³   ³   ³               ³   ÃÄÄÄjdk.unsupported
+³   ³   ³               ³   ÃÄÄÄjdk.xml.dom
+³   ³   ³               ³   ÀÄÄÄjdk.zipfs
+³   ³   ³               ÀÄÄÄlib
+³   ³   ³                   ÃÄÄÄjfr
+³   ³   ³                   ÀÄÄÄsecurity
+³   ³   ÃÄÄÄprogramas
+³   ³   ³   ÃÄÄÄblender-2.70-windows64
+³   ³   ³   ³   ÀÄÄÄ2.70
+³   ³   ³   ³       ÃÄÄÄdatafiles
+³   ³   ³   ³       ³   ÃÄÄÄcolormanagement
+³   ³   ³   ³       ³   ³   ÀÄÄÄluts
+³   ³   ³   ³       ³   ³       ÀÄÄÄfilm_response
+³   ³   ³   ³       ³   ÃÄÄÄfonts
+³   ³   ³   ³       ³   ÀÄÄÄlocale
+³   ³   ³   ³       ³       ÃÄÄÄar
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄar_raw
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄca
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄcs
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄde
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄeo
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄes
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄes_ES
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄfa
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄfa_raw
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄfr
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄhe
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄhe_raw
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄhi
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄhr
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄhu
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄid
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄit
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄja
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄko
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄky
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄnl
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄpt
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄpt_BR
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄru
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄsr
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄsr@latin
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄsv
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄtr
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄuk
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÃÄÄÄzh_CN
+³   ³   ³   ³       ³       ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ³       ÀÄÄÄzh_TW
+³   ³   ³   ³       ³           ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³       ÃÄÄÄpython
+³   ³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³   ³       ³       ÃÄÄÄcollections
+³   ³   ³   ³       ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³       ³       ÃÄÄÄconcurrent
+³   ³   ³   ³       ³       ³   ÀÄÄÄfutures
+³   ³   ³   ³       ³       ÃÄÄÄctypes
+³   ³   ³   ³       ³       ³   ÀÄÄÄmacholib
+³   ³   ³   ³       ³       ÃÄÄÄcurses
+³   ³   ³   ³       ³       ÃÄÄÄdbm
+³   ³   ³   ³       ³       ÃÄÄÄemail
+³   ³   ³   ³       ³       ³   ÀÄÄÄmime
+³   ³   ³   ³       ³       ÃÄÄÄencodings
+³   ³   ³   ³       ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³       ³       ÃÄÄÄhtml
+³   ³   ³   ³       ³       ÃÄÄÄhttp
+³   ³   ³   ³       ³       ÃÄÄÄimportlib
+³   ³   ³   ³       ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³       ³       ÃÄÄÄjson
+³   ³   ³   ³       ³       ÃÄÄÄlogging
+³   ³   ³   ³       ³       ÃÄÄÄmsilib
+³   ³   ³   ³       ³       ÃÄÄÄmultiprocessing
+³   ³   ³   ³       ³       ³   ÀÄÄÄdummy
+³   ³   ³   ³       ³       ÃÄÄÄplat-aix4
+³   ³   ³   ³       ³       ÃÄÄÄplat-darwin
+³   ³   ³   ³       ³       ÃÄÄÄplat-freebsd4
+³   ³   ³   ³       ³       ÃÄÄÄplat-freebsd5
+³   ³   ³   ³       ³       ÃÄÄÄplat-freebsd6
+³   ³   ³   ³       ³       ÃÄÄÄplat-freebsd7
+³   ³   ³   ³       ³       ÃÄÄÄplat-freebsd8
+³   ³   ³   ³       ³       ÃÄÄÄplat-generic
+³   ³   ³   ³       ³       ÃÄÄÄplat-linux
+³   ³   ³   ³       ³       ÃÄÄÄplat-netbsd1
+³   ³   ³   ³       ³       ÃÄÄÄplat-next3
+³   ³   ³   ³       ³       ÃÄÄÄplat-os2emx
+³   ³   ³   ³       ³       ÃÄÄÄplat-sunos5
+³   ³   ³   ³       ³       ÃÄÄÄplat-unixware7
+³   ³   ³   ³       ³       ÃÄÄÄpydoc_data
+³   ³   ³   ³       ³       ÃÄÄÄsite-packages
+³   ³   ³   ³       ³       ³   ÃÄÄÄ.svn
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄpristine
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ02
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ05
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ0d
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ10
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ13
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ1c
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ29
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ2b
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ2c
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ34
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ41
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ44
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ55
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ60
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ62
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ67
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ6a
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ6e
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ71
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ74
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ75
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ76
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ83
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ85
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ8d
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ8e
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ92
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ95
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ98
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄ99
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄa0
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄa1
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄa4
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄac
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄb6
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄb8
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄb9
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄbb
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄbf
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄc0
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄc9
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄca
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄcb
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄcd
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄd0
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄd2
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄd5
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄda
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄdc
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄe0
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄe3
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄe4
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄe9
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄeb
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄee
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄf0
+³   ³   ³   ³       ³       ³   ³   ³   ÃÄÄÄf1
+³   ³   ³   ³       ³       ³   ³   ³   ÀÄÄÄf2
+³   ³   ³   ³       ³       ³   ³   ÀÄÄÄtmp
+³   ³   ³   ³       ³       ³   ÃÄÄÄnumpy
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄcompat
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄcore
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄfft
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄlib
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄlinalg
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄma
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄmatrixlib
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄnumarray
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄpolynomial
+³   ³   ³   ³       ³       ³   ³   ÃÄÄÄrandom
+³   ³   ³   ³       ³       ³   ³   ÀÄÄÄtesting
+³   ³   ³   ³       ³       ³   ÀÄÄÄrequests
+³   ³   ³   ³       ³       ³       ÀÄÄÄpackages
+³   ³   ³   ³       ³       ³           ÃÄÄÄchardet
+³   ³   ³   ³       ³       ³           ÀÄÄÄurllib3
+³   ³   ³   ³       ³       ³               ÃÄÄÄcontrib
+³   ³   ³   ³       ³       ³               ÀÄÄÄpackages
+³   ³   ³   ³       ³       ³                   ÀÄÄÄssl_match_hostname
+³   ³   ³   ³       ³       ÃÄÄÄsqlite3
+³   ³   ³   ³       ³       ÃÄÄÄunittest
+³   ³   ³   ³       ³       ÃÄÄÄurllib
+³   ³   ³   ³       ³       ÃÄÄÄvenv
+³   ³   ³   ³       ³       ³   ÀÄÄÄscripts
+³   ³   ³   ³       ³       ³       ÃÄÄÄnt
+³   ³   ³   ³       ³       ³       ÀÄÄÄposix
+³   ³   ³   ³       ³       ÃÄÄÄwsgiref
+³   ³   ³   ³       ³       ÃÄÄÄxml
+³   ³   ³   ³       ³       ³   ÃÄÄÄdom
+³   ³   ³   ³       ³       ³   ÃÄÄÄetree
+³   ³   ³   ³       ³       ³   ÃÄÄÄparsers
+³   ³   ³   ³       ³       ³   ÀÄÄÄsax
+³   ³   ³   ³       ³       ÃÄÄÄxmlrpc
+³   ³   ³   ³       ³       ÀÄÄÄ__pycache__
+³   ³   ³   ³       ÀÄÄÄscripts
+³   ³   ³   ³           ÃÄÄÄaddons
+³   ³   ³   ³           ³   ÃÄÄÄadd_curve_extra_objects
+³   ³   ³   ³           ³   ÃÄÄÄadd_curve_sapling
+³   ³   ³   ³           ³   ³   ÀÄÄÄpresets
+³   ³   ³   ³           ³   ÃÄÄÄadd_mesh_BoltFactory
+³   ³   ³   ³           ³   ³   ÀÄÄÄpresets
+³   ³   ³   ³           ³   ÃÄÄÄadd_mesh_extra_objects
+³   ³   ³   ³           ³   ÃÄÄÄcycles
+³   ³   ³   ³           ³   ³   ÃÄÄÄkernel
+³   ³   ³   ³           ³   ³   ³   ÃÄÄÄclosure
+³   ³   ³   ³           ³   ³   ³   ÀÄÄÄsvm
+³   ³   ³   ³           ³   ³   ÃÄÄÄlib
+³   ³   ³   ³           ³   ³   ÃÄÄÄlicense
+³   ³   ³   ³           ³   ³   ÃÄÄÄshader
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_anim_acclaim
+³   ³   ³   ³           ³   ÃÄÄÄio_anim_bvh
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_anim_c3d
+³   ³   ³   ³           ³   ÃÄÄÄio_anim_nuke_chan
+³   ³   ³   ³           ³   ÃÄÄÄio_coat3D
+³   ³   ³   ³           ³   ÃÄÄÄio_convert_image_to_mesh_img
+³   ³   ³   ³           ³   ÃÄÄÄio_curve_svg
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_export_dxf
+³   ³   ³   ³           ³   ³   ÃÄÄÄdraw_blenders
+³   ³   ³   ³           ³   ³   ÃÄÄÄmodel
+³   ³   ³   ³           ³   ³   ÀÄÄÄprimitive_exporters
+³   ³   ³   ³           ³   ÃÄÄÄio_mesh_pdb
+³   ³   ³   ³           ³   ÃÄÄÄio_mesh_ply
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_mesh_raw
+³   ³   ³   ³           ³   ÃÄÄÄio_mesh_stl
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_mesh_uv_layout
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_online_sketchfab
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_3ds
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_fbx
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_map
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_ms3d
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_obj
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_vrml2
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_x
+³   ³   ³   ³           ³   ÃÄÄÄio_scene_x3d
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄio_sequencer_edl
+³   ³   ³   ³           ³   ÃÄÄÄio_shape_mdd
+³   ³   ³   ³           ³   ÃÄÄÄlight_field_tools
+³   ³   ³   ³           ³   ÃÄÄÄmesh_inset
+³   ³   ³   ³           ³   ÃÄÄÄmocap
+³   ³   ³   ³           ³   ÃÄÄÄmodules
+³   ³   ³   ³           ³   ³   ÀÄÄÄextensions_framework
+³   ³   ³   ³           ³   ÃÄÄÄnetrender
+³   ³   ³   ³           ³   ³   ÃÄÄÄcss
+³   ³   ³   ³           ³   ³   ³   ÀÄÄÄimages
+³   ³   ³   ³           ³   ³   ÀÄÄÄjs
+³   ³   ³   ³           ³   ÃÄÄÄobject_fracture
+³   ³   ³   ³           ³   ÃÄÄÄobject_fracture_cell
+³   ³   ³   ³           ³   ÃÄÄÄobject_print3d_utils
+³   ³   ³   ³           ³   ÃÄÄÄrender_copy_settings
+³   ³   ³   ³           ³   ÃÄÄÄrender_povray
+³   ³   ³   ³           ³   ÃÄÄÄrender_renderfarmfi
+³   ³   ³   ³           ³   ÃÄÄÄrigify
+³   ³   ³   ³           ³   ³   ÃÄÄÄmetarigs
+³   ³   ³   ³           ³   ³   ÀÄÄÄrigs
+³   ³   ³   ³           ³   ³       ÃÄÄÄbasic
+³   ³   ³   ³           ³   ³       ÃÄÄÄbiped
+³   ³   ³   ³           ³   ³       ³   ÃÄÄÄarm
+³   ³   ³   ³           ³   ³       ³   ÀÄÄÄleg
+³   ³   ³   ³           ³   ³       ÀÄÄÄmisc
+³   ³   ³   ³           ³   ÃÄÄÄsequencer_extra_actions
+³   ³   ³   ³           ³   ÃÄÄÄspace_view3d_math_vis
+³   ³   ³   ³           ³   ÃÄÄÄsystem_demo_mode
+³   ³   ³   ³           ³   ÀÄÄÄui_translate
+³   ³   ³   ³           ÃÄÄÄfreestyle
+³   ³   ³   ³           ³   ÃÄÄÄmodules
+³   ³   ³   ³           ³   ³   ÀÄÄÄfreestyle
+³   ³   ³   ³           ³   ÀÄÄÄstyles
+³   ³   ³   ³           ÃÄÄÄmodules
+³   ³   ³   ³           ³   ÃÄÄÄbl_i18n_utils
+³   ³   ³   ³           ³   ÃÄÄÄbpy
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄbpy_extras
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄconsole
+³   ³   ³   ³           ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ÃÄÄÄpresets
+³   ³   ³   ³           ³   ÃÄÄÄcamera
+³   ³   ³   ³           ³   ÃÄÄÄcloth
+³   ³   ³   ³           ³   ÃÄÄÄcycles
+³   ³   ³   ³           ³   ³   ÃÄÄÄintegrator
+³   ³   ³   ³           ³   ³   ÀÄÄÄsampling
+³   ³   ³   ³           ³   ÃÄÄÄffmpeg
+³   ³   ³   ³           ³   ÃÄÄÄfluid
+³   ³   ³   ³           ³   ÃÄÄÄframerate
+³   ³   ³   ³           ³   ÃÄÄÄinteraction
+³   ³   ³   ³           ³   ÃÄÄÄinterface_theme
+³   ³   ³   ³           ³   ÃÄÄÄkeyconfig
+³   ³   ³   ³           ³   ÃÄÄÄoperator
+³   ³   ³   ³           ³   ³   ÀÄÄÄwm.collada_export
+³   ³   ³   ³           ³   ÃÄÄÄrender
+³   ³   ³   ³           ³   ÃÄÄÄsss
+³   ³   ³   ³           ³   ÃÄÄÄsunsky
+³   ³   ³   ³           ³   ÃÄÄÄtracking_camera
+³   ³   ³   ³           ³   ÃÄÄÄtracking_settings
+³   ³   ³   ³           ³   ÀÄÄÄtracking_track_color
+³   ³   ³   ³           ÃÄÄÄstartup
+³   ³   ³   ³           ³   ÃÄÄÄbl_operators
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÃÄÄÄbl_ui
+³   ³   ³   ³           ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³           ÃÄÄÄtemplates_osl
+³   ³   ³   ³           ÀÄÄÄtemplates_py
+³   ³   ³   ÃÄÄÄblender-3.0.0-windows-x64
+³   ³   ³   ³   ÃÄÄÄ3.0
+³   ³   ³   ³   ³   ÃÄÄÄdatafiles
+³   ³   ³   ³   ³   ³   ÃÄÄÄcolormanagement
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄfilmic
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄluts
+³   ³   ³   ³   ³   ³   ÃÄÄÄfonts
+³   ³   ³   ³   ³   ³   ÃÄÄÄicons
+³   ³   ³   ³   ³   ³   ÃÄÄÄlocale
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄab
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄar
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄca
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄcs
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄde
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄeo
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄes
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄes_ES
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄeu
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄfa
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄfr
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄha
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄhe
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄhi
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄhr
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄhu
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄid
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄit
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄja
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄko
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄky
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄnl
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄpl
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄpt
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄpt_BR
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄru
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄsk
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄsr
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄsr@latin
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄsv
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄth
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄtr
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄuk
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄvi
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄzh_CN
+³   ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄzh_TW
+³   ³   ³   ³   ³   ³   ³       ÀÄÄÄLC_MESSAGES
+³   ³   ³   ³   ³   ³   ÃÄÄÄstudiolights
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄmatcap
+³   ³   ³   ³   ³   ³   ³   ÃÄÄÄstudio
+³   ³   ³   ³   ³   ³   ³   ÀÄÄÄworld
+³   ³   ³   ³   ³   ³   ÀÄÄÄusd
+³   ³   ³   ³   ³   ³       ÃÄÄÄar
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ÃÄÄÄndr
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ÃÄÄÄsdf
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ÃÄÄÄusd
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÃÄÄÄcodegenTemplates
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusd
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdGeom
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdGeom
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdHydra
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄshaders
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdLux
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdLux
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdMedia
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdMedia
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdRender
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdRender
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdRi
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdRi
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdShade
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdShade
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdSkel
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdSkel
+³   ³   ³   ³   ³   ³       ÃÄÄÄusdUI
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄresources
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄusdUI
+³   ³   ³   ³   ³   ³       ÀÄÄÄusdVol
+³   ³   ³   ³   ³   ³           ÀÄÄÄresources
+³   ³   ³   ³   ³   ³               ÀÄÄÄusdVol
+³   ³   ³   ³   ³   ÃÄÄÄpython
+³   ³   ³   ³   ³   ³   ÃÄÄÄbin
+³   ³   ³   ³   ³   ³   ÃÄÄÄDLLs
+³   ³   ³   ³   ³   ³   ÀÄÄÄlib
+³   ³   ³   ³   ³   ³       ÃÄÄÄasyncio
+³   ³   ³   ³   ³   ³       ÃÄÄÄcollections
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³   ³       ÃÄÄÄconcurrent
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄfutures
+³   ³   ³   ³   ³   ³       ÃÄÄÄctypes
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄmacholib
+³   ³   ³   ³   ³   ³       ÃÄÄÄcurses
+³   ³   ³   ³   ³   ³       ÃÄÄÄdbm
+³   ³   ³   ³   ³   ³       ÃÄÄÄdistutils
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄcommand
+³   ³   ³   ³   ³   ³       ÃÄÄÄemail
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄmime
+³   ³   ³   ³   ³   ³       ÃÄÄÄencodings
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³   ³       ÃÄÄÄensurepip
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄ_bundled
+³   ³   ³   ³   ³   ³       ÃÄÄÄhtml
+³   ³   ³   ³   ³   ³       ÃÄÄÄhttp
+³   ³   ³   ³   ³   ³       ÃÄÄÄimportlib
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³   ³       ÃÄÄÄjson
+³   ³   ³   ³   ³   ³       ÃÄÄÄlib2to3
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄfixes
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄpgen2
+³   ³   ³   ³   ³   ³       ÃÄÄÄlogging
+³   ³   ³   ³   ³   ³       ÃÄÄÄmsilib
+³   ³   ³   ³   ³   ³       ÃÄÄÄmultiprocessing
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄdummy
+³   ³   ³   ³   ³   ³       ÃÄÄÄpydoc_data
+³   ³   ³   ³   ³   ³       ÃÄÄÄsite-packages
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcertifi
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcertifi-2021.10.8-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcharset_normalizer
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄassets
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄcli
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄcharset_normalizer-2.0.6-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄCython
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄBuild
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄTests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄCompiler
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄTests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄDebugger
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄTests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄDistutils
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄIncludes
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcpython
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄDeprecated
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlibc
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlibcpp
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄnumpy
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄposix
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄPlex
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄRuntime
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄTempita
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄTests
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄUtility
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄCython-0.29.24-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄidna
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄidna-3.2-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄnumpy
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄcompat
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄcore
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄinclude
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄnumpy
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³       ÃÄÄÄlibdivide
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³       ÀÄÄÄrandom
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄnpy-pkg-config
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÃÄÄÄdata
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÀÄÄÄexamples
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄdistutils
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄchecks
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcommand
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄfcompiler
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmingw
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄdoc
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄf2py
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÀÄÄÄsrc
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄarray_from_pyobj
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄassumed_shape
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄcommon
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄkind
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄmixed
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄmodule_data
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄparameter
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄregression
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÃÄÄÄsize
+³   ³   ³   ³   ³   ³       ³   ³   ³           ÀÄÄÄstring
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄfft
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÀÄÄÄdata
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄlinalg
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄma
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmatrixlib
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄpolynomial
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄrandom
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄdata
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄ_examples
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÃÄÄÄcffi
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÃÄÄÄcython
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÀÄÄÄnumba
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄtesting
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄ_private
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄtyping
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³           ÀÄÄÄdata
+³   ³   ³   ³   ³   ³       ³   ³               ÃÄÄÄfail
+³   ³   ³   ³   ³   ³       ³   ³               ÃÄÄÄmisc
+³   ³   ³   ³   ³   ³       ³   ³               ÃÄÄÄpass
+³   ³   ³   ³   ³   ³       ³   ³               ÀÄÄÄreveal
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄnumpy-1.21.2-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄpip
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄ_internal
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcli
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcommands
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄdistributions
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄindex
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlocations
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmetadata
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmodels
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄnetwork
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄoperations
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄinstall
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄreq
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄresolution
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄlegacy
+³   ³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄresolvelib
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄutils
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄvcs
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ_vendor
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄcachecontrol
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄcaches
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄcertifi
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄchardet
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄcli
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄmetadata
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄcolorama
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄdistlib
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄ_backport
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄhtml5lib
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄfilters
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄtreeadapters
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄtreebuilders
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄtreewalkers
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄ_trie
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄidna
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄmsgpack
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄpackaging
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄpep517
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄin_process
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄpkg_resources
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄprogress
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄrequests
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄresolvelib
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄcompat
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄtenacity
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄtomli
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄurllib3
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄcontrib
+³   ³   ³   ³   ³   ³       ³   ³       ³   ³   ÀÄÄÄ_securetransport
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÃÄÄÄpackages
+³   ³   ³   ³   ³   ³       ³   ³       ³   ³   ÃÄÄÄbackports
+³   ³   ³   ³   ³   ³       ³   ³       ³   ³   ÀÄÄÄssl_match_hostname
+³   ³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄutil
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄwebencodings
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄpip-21.2.3.dist-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄpkg_resources
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄextern
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄdata
+³   ³   ³   ³   ³   ³       ³   ³   ³       ÀÄÄÄmy-test-package-source
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ_vendor
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄpackaging
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄpyximport
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄrequests
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄrequests-2.26.0-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄsetuptools
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄcommand
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄextern
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄ_distutils
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄcommand
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ_vendor
+³   ³   ³   ³   ³   ³       ³   ³       ÃÄÄÄmore_itertools
+³   ³   ³   ³   ³   ³       ³   ³       ÀÄÄÄpackaging
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄsetuptools-57.4.0.dist-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄurllib3
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄcontrib
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄ_securetransport
+³   ³   ³   ³   ³   ³       ³   ³   ÃÄÄÄpackages
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄbackports
+³   ³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄssl_match_hostname
+³   ³   ³   ³   ³   ³       ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄurllib3-1.26.7-py3.9.egg-info
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄzstandard
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄzstandard-0.15.2.dist-info
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄ_distutils_hack
+³   ³   ³   ³   ³   ³       ÃÄÄÄsqlite3
+³   ³   ³   ³   ³   ³       ÃÄÄÄunittest
+³   ³   ³   ³   ³   ³       ÃÄÄÄurllib
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³   ³       ÃÄÄÄvenv
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄscripts
+³   ³   ³   ³   ³   ³       ³       ÃÄÄÄcommon
+³   ³   ³   ³   ³   ³       ³       ÃÄÄÄnt
+³   ³   ³   ³   ³   ³       ³       ÀÄÄÄposix
+³   ³   ³   ³   ³   ³       ÃÄÄÄwsgiref
+³   ³   ³   ³   ³   ³       ÃÄÄÄxml
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄdom
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄetree
+³   ³   ³   ³   ³   ³       ³   ÃÄÄÄparsers
+³   ³   ³   ³   ³   ³       ³   ÀÄÄÄsax
+³   ³   ³   ³   ³   ³       ÃÄÄÄxmlrpc
+³   ³   ³   ³   ³   ³       ÃÄÄÄzoneinfo
+³   ³   ³   ³   ³   ³       ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³   ÀÄÄÄscripts
+³   ³   ³   ³   ³       ÃÄÄÄaddons
+³   ³   ³   ³   ³       ³   ÃÄÄÄ.github
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_camera_rigs
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_curve_extra_objects
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_curve_sapling
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄpresets
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_mesh_BoltFactory
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_mesh_discombobulator
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_mesh_extra_objects
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄadd_mesh_rocks
+³   ³   ³   ³   ³       ³   ÃÄÄÄadd_mesh_geodesic_domes
+³   ³   ³   ³   ³       ³   ÃÄÄÄamaranth
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄanimation
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmisc
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmodeling
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄnode_editor
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄtemplates
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄrender
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄscene
+³   ³   ³   ³   ³       ³   ÃÄÄÄant_landscape
+³   ³   ³   ³   ³       ³   ÃÄÄÄarchimesh
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄimages
+³   ³   ³   ³   ³       ³   ÃÄÄÄblender_id
+³   ³   ³   ³   ³       ³   ÃÄÄÄbtrace
+³   ³   ³   ³   ³       ³   ÃÄÄÄcurve_tools
+³   ³   ³   ³   ³       ³   ÃÄÄÄcycles
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄlicense
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄshader
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄsource
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄkernel
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄbake
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄbvh
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcamera
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄclosure
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄdevice
+³   ³   ³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄcuda
+³   ³   ³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄgpu
+³   ³   ³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄhip
+³   ³   ³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄoptix
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄfilm
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄgeom
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄintegrator
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄlight
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄsample
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÃÄÄÄsvm
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄnanovdb
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄgreasepencil_tools
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_anim_bvh
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_anim_nuke_chan
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_coat3D
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_curve_svg
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_export_dxf
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄdraw_blenders
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmodel
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄprimitive_exporters
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_import_dxf
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄdxfgrabber
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄdxfimport
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_import_palette
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_mesh_atomic
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_mesh_ply
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_mesh_stl
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_mesh_uv_layout
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_scene_fbx
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_scene_gltf2
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄblender
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcom
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄexp
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄimp
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄio
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcom
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄexp
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄimp
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_scene_obj
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_scene_x3d
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄio_shape_mdd
+³   ³   ³   ³   ³       ³   ÃÄÄÄmagic_uv
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄop
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄui
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³       ³   ÃÄÄÄmaterials_library_vx
+³   ³   ³   ³   ³       ³   ÃÄÄÄmaterials_utils
+³   ³   ³   ³   ³       ³   ÃÄÄÄmeasureit
+³   ³   ³   ³   ³       ³   ÃÄÄÄmesh_inset
+³   ³   ³   ³   ³       ³   ÃÄÄÄmesh_snap_utilities_line
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄicons
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄsnap_context_l
+³   ³   ³   ³   ³       ³   ³       ÀÄÄÄshaders
+³   ³   ³   ³   ³       ³   ÃÄÄÄmesh_tiny_cad
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄicons
+³   ³   ³   ³   ³       ³   ÃÄÄÄmesh_tissue
+³   ³   ³   ³   ³       ³   ÃÄÄÄmesh_tools
+³   ³   ³   ³   ³       ³   ÃÄÄÄobject_carver
+³   ³   ³   ³   ³       ³   ÃÄÄÄobject_collection_manager
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄicons
+³   ³   ³   ³   ³       ³   ÃÄÄÄobject_fracture_cell
+³   ³   ³   ³   ³       ³   ÃÄÄÄobject_print3d_utils
+³   ³   ³   ³   ³       ³   ÃÄÄÄobject_scatter
+³   ³   ³   ³   ³       ³   ÃÄÄÄpose_library
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄpower_sequencer
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoperators
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄrender_presets
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄtools
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄui
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³       ³   ÃÄÄÄprecision_drawing_tools
+³   ³   ³   ³   ³       ³   ÃÄÄÄpresets
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄinterface_theme
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoperator
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄcurve.torus_knot_plus
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmesh.bolt_add
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmesh.eroder
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmesh.landscape_add
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmesh.primitive_round_cube_add
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄmesh.primitive_xyz_function_surface
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄsun_position
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄpov
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄlight
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄmaterial
+³   ³   ³   ³   ³       ³   ³       ³   ÀÄÄÄsss
+³   ³   ³   ³   ³       ³   ³       ÃÄÄÄradiosity
+³   ³   ³   ³   ³       ³   ³       ÀÄÄÄworld
+³   ³   ³   ³   ³       ³   ÃÄÄÄrender_copy_settings
+³   ³   ³   ³   ³       ³   ÃÄÄÄrender_povray
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄtemplates_pov
+³   ³   ³   ³   ³       ³   ÃÄÄÄrigify
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄfeature_sets
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄmetarigs
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄAnimals
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄBasic
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄoperators
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄrigs
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄbasic
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄexperimental
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄface
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄfaces
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄlimbs
+³   ³   ³   ³   ³       ³   ³   ³   ÃÄÄÄskin
+³   ³   ³   ³   ³       ³   ³   ³   ³   ÀÄÄÄtransform
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄspines
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄutils
+³   ³   ³   ³   ³       ³   ÃÄÄÄspace_view3d_brush_menus
+³   ³   ³   ³   ³       ³   ÃÄÄÄspace_view3d_math_vis
+³   ³   ³   ³   ³       ³   ÃÄÄÄspace_view3d_pie_menus
+³   ³   ³   ³   ³       ³   ÃÄÄÄspace_view3d_spacebar_menu
+³   ³   ³   ³   ³       ³   ÃÄÄÄspace_view3d_stored_views
+³   ³   ³   ³   ³       ³   ÃÄÄÄsun_position
+³   ³   ³   ³   ³       ³   ÃÄÄÄsystem_demo_mode
+³   ³   ³   ³   ³       ³   ÃÄÄÄui_translate
+³   ³   ³   ³   ³       ³   ÀÄÄÄviewport_vr_preview
+³   ³   ³   ³   ³       ³       ÀÄÄÄconfigs
+³   ³   ³   ³   ³       ÃÄÄÄaddons_contrib
+³   ³   ³   ³   ³       ÃÄÄÄfreestyle
+³   ³   ³   ³   ³       ³   ÃÄÄÄmodules
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄfreestyle
+³   ³   ³   ³   ³       ³   ÀÄÄÄstyles
+³   ³   ³   ³   ³       ÃÄÄÄmodules
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_app_override
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_i18n_utils
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_keymap_utils
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_previews_utils
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_rna_utils
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_ui_utils
+³   ³   ³   ³   ³       ³   ÃÄÄÄbpy
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄutils
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄbpy_extras
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄwm_utils
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄconsole
+³   ³   ³   ³   ³       ³   ÃÄÄÄgpu_extras
+³   ³   ³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ÃÄÄÄpresets
+³   ³   ³   ³   ³       ³   ÃÄÄÄcamera
+³   ³   ³   ³   ³       ³   ÃÄÄÄcloth
+³   ³   ³   ³   ³       ³   ÃÄÄÄcycles
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄintegrator
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄsampling
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄviewport_sampling
+³   ³   ³   ³   ³       ³   ÃÄÄÄffmpeg
+³   ³   ³   ³   ³       ³   ÃÄÄÄfluid
+³   ³   ³   ³   ³       ³   ÃÄÄÄframerate
+³   ³   ³   ³   ³       ³   ÃÄÄÄgpencil_material
+³   ³   ³   ³   ³       ³   ÃÄÄÄhair_dynamics
+³   ³   ³   ³   ³       ³   ÃÄÄÄinterface_theme
+³   ³   ³   ³   ³       ³   ÃÄÄÄkeyconfig
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄkeymap_data
+³   ³   ³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄoperator
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄwm.collada_export
+³   ³   ³   ³   ³       ³   ÃÄÄÄrender
+³   ³   ³   ³   ³       ³   ÃÄÄÄsafe_areas
+³   ³   ³   ³   ³       ³   ÃÄÄÄsss
+³   ³   ³   ³   ³       ³   ÃÄÄÄtracking_camera
+³   ³   ³   ³   ³       ³   ÃÄÄÄtracking_settings
+³   ³   ³   ³   ³       ³   ÀÄÄÄtracking_track_color
+³   ³   ³   ³   ³       ÃÄÄÄstartup
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_app_templates_system
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄ2D_Animation
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄSculpting
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄVFX
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄVideo_Editing
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_operators
+³   ³   ³   ³   ³       ³   ³   ÃÄÄÄbmesh
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÃÄÄÄbl_ui
+³   ³   ³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³   ³   ³       ÃÄÄÄtemplates_osl
+³   ³   ³   ³   ³       ÀÄÄÄtemplates_py
+³   ³   ³   ³   ÃÄÄÄblender.crt
+³   ³   ³   ³   ÀÄÄÄlicense
+³   ³   ³   ÃÄÄÄCandle
+³   ³   ³   ³   ÃÄÄÄplatforms
+³   ³   ³   ³   ÃÄÄÄtranslations
+³   ³   ³   ³   ÀÄÄÄ__MACOSX
+³   ³   ³   ÀÄÄÄPORTUGUES
+³   ³   ³       ÃÄÄÄ25-10-23 contacciones portugues
+³   ³   ³       ÃÄÄÄACCESOS PORTUGUES
+³   ³   ³       ÃÄÄÄcibercursoslpA1-voc casa1
+³   ³   ³       ÃÄÄÄcibercursoslpB1 leit palacio
+³   ³   ³       ÃÄÄÄcibercursoslpPOR-pres
+³   ³   ³       ÃÄÄÄCORE
+³   ³   ³       ³   ÀÄÄÄdiferencia de uso infinitivo personal y futuro de subj
+³   ³   ³       ÃÄÄÄcurso portugal online
+³   ³   ³       ÃÄÄÄexamen portugues
+³   ³   ³       ³   ÀÄÄÄportug
+³   ³   ³       ³       ÃÄÄÄintermedios
+³   ³   ³       ³       ÀÄÄÄNueva carpeta
+³   ³   ³       ÃÄÄÄImperfect Past VS Perfect Past in European Portuguese - When to use one or the other_
+³   ³   ³       ÃÄÄÄMATRICULACION PORTUGUES A2
+³   ³   ³       ÃÄÄÄmesocliticos en portugues futuro y pronombres objeto directo
+³   ³   ³       ÃÄÄÄportug descargas
+³   ³   ³       ÃÄÄÄPORTUGUES_
+³   ³   ³       ³   ÃÄÄÄEOI
+³   ³   ³       ³   ÃÄÄÄintermedios portugues
+³   ³   ³       ³   ÃÄÄÄVERBOS
+³   ³   ³       ³   ³   ÀÄÄÄbescherelle portugues
+³   ³   ³       ³   ÀÄÄÄVOCABULARIO
+³   ³   ³       ÃÄÄÄPortuguˆs ao Vivo - Apresenta‡äes
+³   ³   ³       ÃÄÄÄPresente do Conjuntivo - Construc÷o~es Impessoais
+³   ³   ³       ÃÄÄÄpronombres atonos portugyes
+³   ³   ³       ÀÄÄÄvocabulario portugues
+³   ³   ÀÄÄÄrelaciones entidades debiles
+³   ÀÄÄÄIm genes
+³       ÃÄÄÄCapturas de pantalla
+³       ÃÄÄÄSaved Pictures
+³       ÀÄÄÄµlbum de c mara
+ÃÄÄÄSaved Games
+ÃÄÄÄSearches
+ÃÄÄÄsource
+³   ÀÄÄÄrepos
+³       ÀÄÄÄSolution1
+ÃÄÄÄVideos
+³   ÀÄÄÄCaptures
+ÀÄÄÄVirtualBox VMs
+    ÃÄÄÄWindows10Sistemas
+    ³   ÃÄÄÄLogs
+    ³   ÀÄÄÄSnapshots
+    ÃÄÄÄWindows10Sistemas64
+    ³   ÃÄÄÄLogs
+    ³   ÀÄÄÄSnapshots
+    ÀÄÄÄWindows10_Reserva
+        ÀÄÄÄLogs
